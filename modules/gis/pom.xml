@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>ro.rosmof.gis</groupId>
+    <artifactId>gis</artifactId>
+    <version>${gis.module.version}</version>
+
+    <parent>
+        <artifactId>compensare</artifactId>
+        <groupId>ro.rosmof</groupId>
+        <version>1.0</version>
+        <relativePath>../..</relativePath>
+    </parent>
+
+    <name>gis</name>
+    <description>Compensari GIS module</description>
+
+    <dependencies>
+        <dependency>
+            <groupId>ro.rosmof</groupId>
+            <artifactId>config</artifactId>
+            <version>${global.version}</version>
+        </dependency>
+    </dependencies>
+
+    <build>
+        <sourceDirectory>${project.basedir}/src/main/java</sourceDirectory>
+        <testSourceDirectory>${project.basedir}/src/test/java</testSourceDirectory>
+        <resources>
+            <resource>
+                <directory>${project.basedir}/src/main/resources/</directory>
+            </resource>
+            <resource>
+                <directory>${project.basedir}/src/profiles/${build.profile.id}/resources</directory>
+            </resource>
+        </resources>
+    </build>
+
+
+</project>

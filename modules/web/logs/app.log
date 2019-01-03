@@ -1,0 +1,680 @@
+2019-01-03 14:56:10,514 DEBUG o.a.h.c.p.RequestAddCookies [main] CookieSpec selected: default
+2019-01-03 14:56:10,530 DEBUG o.a.h.c.p.RequestAuthCache [main] Auth cache not set in the context
+2019-01-03 14:56:10,531 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection request: [route: {}->http://localhost:80][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2019-01-03 14:56:10,549 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection leased: [id: 0][route: {}->http://localhost:80][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2019-01-03 14:56:10,550 DEBUG o.a.h.i.e.MainClientExec [main] Opening connection {}->http://localhost:80
+2019-01-03 14:56:10,557 DEBUG o.a.h.i.c.DefaultHttpClientConnectionOperator [main] Connecting to localhost/127.0.0.1:80
+2019-01-03 14:56:10,561 DEBUG o.a.h.i.c.DefaultHttpClientConnectionOperator [main] Connect to localhost/127.0.0.1:80 timed out. Connection will be retried using another IP address
+2019-01-03 14:56:10,561 DEBUG o.a.h.i.c.DefaultHttpClientConnectionOperator [main] Connecting to localhost/0:0:0:0:0:0:0:1:80
+2019-01-03 14:56:10,561 DEBUG o.a.h.i.c.DefaultManagedHttpClientConnection [main] http-outgoing-0: Shutdown connection
+2019-01-03 14:56:10,562 DEBUG o.a.h.i.e.MainClientExec [main] Connection discarded
+2019-01-03 14:56:10,562 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection released: [id: 0][route: {}->http://localhost:80][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2019-01-03 14:56:44,239 DEBUG o.a.h.c.p.RequestAddCookies [main] CookieSpec selected: default
+2019-01-03 14:56:44,240 DEBUG o.a.h.c.p.RequestAuthCache [main] Auth cache not set in the context
+2019-01-03 14:56:44,240 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection request: [route: {}->http://localhost:80][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2019-01-03 14:56:44,241 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection leased: [id: 1][route: {}->http://localhost:80][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2019-01-03 14:56:44,241 DEBUG o.a.h.i.e.MainClientExec [main] Opening connection {}->http://localhost:80
+2019-01-03 14:56:44,243 DEBUG o.a.h.i.c.DefaultHttpClientConnectionOperator [main] Connecting to localhost/127.0.0.1:80
+2019-01-03 14:56:44,243 DEBUG o.a.h.i.c.DefaultHttpClientConnectionOperator [main] Connect to localhost/127.0.0.1:80 timed out. Connection will be retried using another IP address
+2019-01-03 14:56:44,243 DEBUG o.a.h.i.c.DefaultHttpClientConnectionOperator [main] Connecting to localhost/0:0:0:0:0:0:0:1:80
+2019-01-03 14:56:44,244 DEBUG o.a.h.i.c.DefaultManagedHttpClientConnection [main] http-outgoing-1: Shutdown connection
+2019-01-03 14:56:44,246 DEBUG o.a.h.i.e.MainClientExec [main] Connection discarded
+2019-01-03 14:56:44,246 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection released: [id: 1][route: {}->http://localhost:80][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2019-01-03 14:57:09,284 DEBUG o.a.h.c.p.RequestAddCookies [main] CookieSpec selected: default
+2019-01-03 14:57:09,303 DEBUG o.a.h.c.p.RequestAuthCache [main] Auth cache not set in the context
+2019-01-03 14:57:09,304 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection request: [route: {}->http://localhost:80][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2019-01-03 14:57:09,322 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection leased: [id: 0][route: {}->http://localhost:80][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2019-01-03 14:57:09,323 DEBUG o.a.h.i.e.MainClientExec [main] Opening connection {}->http://localhost:80
+2019-01-03 14:57:09,332 DEBUG o.a.h.i.c.DefaultHttpClientConnectionOperator [main] Connecting to localhost/127.0.0.1:80
+2019-01-03 14:57:09,337 DEBUG o.a.h.i.c.DefaultHttpClientConnectionOperator [main] Connect to localhost/127.0.0.1:80 timed out. Connection will be retried using another IP address
+2019-01-03 14:57:09,337 DEBUG o.a.h.i.c.DefaultHttpClientConnectionOperator [main] Connecting to localhost/0:0:0:0:0:0:0:1:80
+2019-01-03 14:57:09,338 DEBUG o.a.h.i.c.DefaultManagedHttpClientConnection [main] http-outgoing-0: Shutdown connection
+2019-01-03 14:57:09,338 DEBUG o.a.h.i.e.MainClientExec [main] Connection discarded
+2019-01-03 14:57:09,338 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection released: [id: 0][route: {}->http://localhost:80][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2019-01-03 14:57:34,745 DEBUG o.a.h.c.p.RequestAddCookies [main] CookieSpec selected: default
+2019-01-03 14:57:34,763 DEBUG o.a.h.c.p.RequestAuthCache [main] Auth cache not set in the context
+2019-01-03 14:57:34,764 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection request: [route: {}->http://localhost:8083][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2019-01-03 14:57:34,784 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection leased: [id: 0][route: {}->http://localhost:8083][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2019-01-03 14:57:34,786 DEBUG o.a.h.i.e.MainClientExec [main] Opening connection {}->http://localhost:8083
+2019-01-03 14:57:34,793 DEBUG o.a.h.i.c.DefaultHttpClientConnectionOperator [main] Connecting to localhost/127.0.0.1:8083
+2019-01-03 14:57:34,797 DEBUG o.a.h.i.c.DefaultHttpClientConnectionOperator [main] Connect to localhost/127.0.0.1:8083 timed out. Connection will be retried using another IP address
+2019-01-03 14:57:34,797 DEBUG o.a.h.i.c.DefaultHttpClientConnectionOperator [main] Connecting to localhost/0:0:0:0:0:0:0:1:8083
+2019-01-03 14:57:34,798 DEBUG o.a.h.i.c.DefaultManagedHttpClientConnection [main] http-outgoing-0: Shutdown connection
+2019-01-03 14:57:34,798 DEBUG o.a.h.i.e.MainClientExec [main] Connection discarded
+2019-01-03 14:57:34,798 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection released: [id: 0][route: {}->http://localhost:8083][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2019-01-03 14:57:43,301 DEBUG o.a.h.c.p.RequestAddCookies [main] CookieSpec selected: default
+2019-01-03 14:57:43,317 DEBUG o.a.h.c.p.RequestAuthCache [main] Auth cache not set in the context
+2019-01-03 14:57:43,319 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection request: [route: {}->http://localhost:8083][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2019-01-03 14:57:43,342 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection leased: [id: 0][route: {}->http://localhost:8083][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2019-01-03 14:57:43,344 DEBUG o.a.h.i.e.MainClientExec [main] Opening connection {}->http://localhost:8083
+2019-01-03 14:57:43,353 DEBUG o.a.h.i.c.DefaultHttpClientConnectionOperator [main] Connecting to localhost/127.0.0.1:8083
+2019-01-03 14:57:43,358 DEBUG o.a.h.i.c.DefaultHttpClientConnectionOperator [main] Connect to localhost/127.0.0.1:8083 timed out. Connection will be retried using another IP address
+2019-01-03 14:57:43,358 DEBUG o.a.h.i.c.DefaultHttpClientConnectionOperator [main] Connecting to localhost/0:0:0:0:0:0:0:1:8083
+2019-01-03 14:57:43,359 DEBUG o.a.h.i.c.DefaultManagedHttpClientConnection [main] http-outgoing-0: Shutdown connection
+2019-01-03 14:57:43,362 DEBUG o.a.h.i.e.MainClientExec [main] Connection discarded
+2019-01-03 14:57:43,362 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection released: [id: 0][route: {}->http://localhost:8083][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2019-01-03 14:58:11,421 DEBUG o.a.h.c.p.RequestAddCookies [main] CookieSpec selected: default
+2019-01-03 14:58:11,438 DEBUG o.a.h.c.p.RequestAuthCache [main] Auth cache not set in the context
+2019-01-03 14:58:11,439 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection request: [route: {}->http://localhost:8083][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2019-01-03 14:58:11,458 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection leased: [id: 0][route: {}->http://localhost:8083][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2019-01-03 14:58:11,461 DEBUG o.a.h.i.e.MainClientExec [main] Opening connection {}->http://localhost:8083
+2019-01-03 14:58:11,470 DEBUG o.a.h.i.c.DefaultHttpClientConnectionOperator [main] Connecting to localhost/127.0.0.1:8083
+2019-01-03 14:58:11,478 DEBUG o.a.h.i.c.DefaultHttpClientConnectionOperator [main] Connection established 127.0.0.1:57744<->127.0.0.1:8083
+2019-01-03 14:58:11,478 DEBUG o.a.h.i.e.MainClientExec [main] Executing request GET /home HTTP/1.1
+2019-01-03 14:58:11,478 DEBUG o.a.h.i.e.MainClientExec [main] Target auth state: UNCHALLENGED
+2019-01-03 14:58:11,479 DEBUG o.a.h.i.e.MainClientExec [main] Proxy auth state: UNCHALLENGED
+2019-01-03 14:58:11,483 DEBUG o.a.h.headers [main] http-outgoing-0 >> GET /home HTTP/1.1
+2019-01-03 14:58:11,484 DEBUG o.a.h.headers [main] http-outgoing-0 >> Host: localhost:8083
+2019-01-03 14:58:11,484 DEBUG o.a.h.headers [main] http-outgoing-0 >> Connection: Keep-Alive
+2019-01-03 14:58:11,484 DEBUG o.a.h.headers [main] http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.6 (Java/1.8.0_112)
+2019-01-03 14:58:11,484 DEBUG o.a.h.headers [main] http-outgoing-0 >> Accept-Encoding: gzip,deflate
+2019-01-03 14:58:11,484 DEBUG o.a.h.wire [main] http-outgoing-0 >> "GET /home HTTP/1.1[\r][\n]"
+2019-01-03 14:58:11,484 DEBUG o.a.h.wire [main] http-outgoing-0 >> "Host: localhost:8083[\r][\n]"
+2019-01-03 14:58:11,485 DEBUG o.a.h.wire [main] http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+2019-01-03 14:58:11,485 DEBUG o.a.h.wire [main] http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.6 (Java/1.8.0_112)[\r][\n]"
+2019-01-03 14:58:11,485 DEBUG o.a.h.wire [main] http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2019-01-03 14:58:11,485 DEBUG o.a.h.wire [main] http-outgoing-0 >> "[\r][\n]"
+2019-01-03 14:58:11,493 DEBUG o.a.h.wire [main] http-outgoing-0 << "HTTP/1.1 302 Found[\r][\n]"
+2019-01-03 14:58:11,493 DEBUG o.a.h.wire [main] http-outgoing-0 << "Server: Apache-Coyote/1.1[\r][\n]"
+2019-01-03 14:58:11,493 DEBUG o.a.h.wire [main] http-outgoing-0 << "Set-Cookie: JSESSIONID=7018CBEB236C7D8EB811D2313A3F2AF0; Path=/; HttpOnly[\r][\n]"
+2019-01-03 14:58:11,493 DEBUG o.a.h.wire [main] http-outgoing-0 << "X-Content-Type-Options: nosniff[\r][\n]"
+2019-01-03 14:58:11,493 DEBUG o.a.h.wire [main] http-outgoing-0 << "X-XSS-Protection: 1; mode=block[\r][\n]"
+2019-01-03 14:58:11,493 DEBUG o.a.h.wire [main] http-outgoing-0 << "Cache-Control: no-cache, no-store, max-age=0, must-revalidate[\r][\n]"
+2019-01-03 14:58:11,494 DEBUG o.a.h.wire [main] http-outgoing-0 << "Pragma: no-cache[\r][\n]"
+2019-01-03 14:58:11,494 DEBUG o.a.h.wire [main] http-outgoing-0 << "Expires: 0[\r][\n]"
+2019-01-03 14:58:11,494 DEBUG o.a.h.wire [main] http-outgoing-0 << "X-Frame-Options: DENY[\r][\n]"
+2019-01-03 14:58:11,494 DEBUG o.a.h.wire [main] http-outgoing-0 << "Location: http://localhost:8083/login[\r][\n]"
+2019-01-03 14:58:11,494 DEBUG o.a.h.wire [main] http-outgoing-0 << "Content-Length: 0[\r][\n]"
+2019-01-03 14:58:11,494 DEBUG o.a.h.wire [main] http-outgoing-0 << "Date: Thu, 03 Jan 2019 12:58:11 GMT[\r][\n]"
+2019-01-03 14:58:11,494 DEBUG o.a.h.wire [main] http-outgoing-0 << "[\r][\n]"
+2019-01-03 14:58:11,498 DEBUG o.a.h.headers [main] http-outgoing-0 << HTTP/1.1 302 Found
+2019-01-03 14:58:11,498 DEBUG o.a.h.headers [main] http-outgoing-0 << Server: Apache-Coyote/1.1
+2019-01-03 14:58:11,498 DEBUG o.a.h.headers [main] http-outgoing-0 << Set-Cookie: JSESSIONID=7018CBEB236C7D8EB811D2313A3F2AF0; Path=/; HttpOnly
+2019-01-03 14:58:11,498 DEBUG o.a.h.headers [main] http-outgoing-0 << X-Content-Type-Options: nosniff
+2019-01-03 14:58:11,498 DEBUG o.a.h.headers [main] http-outgoing-0 << X-XSS-Protection: 1; mode=block
+2019-01-03 14:58:11,499 DEBUG o.a.h.headers [main] http-outgoing-0 << Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+2019-01-03 14:58:11,499 DEBUG o.a.h.headers [main] http-outgoing-0 << Pragma: no-cache
+2019-01-03 14:58:11,499 DEBUG o.a.h.headers [main] http-outgoing-0 << Expires: 0
+2019-01-03 14:58:11,499 DEBUG o.a.h.headers [main] http-outgoing-0 << X-Frame-Options: DENY
+2019-01-03 14:58:11,499 DEBUG o.a.h.headers [main] http-outgoing-0 << Location: http://localhost:8083/login
+2019-01-03 14:58:11,499 DEBUG o.a.h.headers [main] http-outgoing-0 << Content-Length: 0
+2019-01-03 14:58:11,499 DEBUG o.a.h.headers [main] http-outgoing-0 << Date: Thu, 03 Jan 2019 12:58:11 GMT
+2019-01-03 14:58:11,505 DEBUG o.a.h.i.e.MainClientExec [main] Connection can be kept alive indefinitely
+2019-01-03 14:58:11,505 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection [id: 0][route: {}->http://localhost:8083] can be kept alive indefinitely
+2019-01-03 14:58:11,506 DEBUG o.a.h.i.c.DefaultManagedHttpClientConnection [main] http-outgoing-0: set socket timeout to 0
+2019-01-03 14:58:11,506 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection released: [id: 0][route: {}->http://localhost:8083][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 20]
+2019-01-03 14:58:11,512 DEBUG o.a.h.c.p.ResponseProcessCookies [main] Cookie accepted [JSESSIONID="7018CBEB236C7D8EB811D2313A3F2AF0", version:0, domain:localhost, path:/, expiry:null]
+2019-01-03 14:58:11,512 DEBUG o.a.h.i.c.DefaultRedirectStrategy [main] Redirect requested to location 'http://localhost:8083/login'
+2019-01-03 14:58:11,515 DEBUG o.a.h.i.e.RedirectExec [main] Redirecting to 'http://localhost:8083/login' via {}->http://localhost:8083
+2019-01-03 14:58:11,517 DEBUG o.a.h.c.p.RequestAddCookies [main] CookieSpec selected: default
+2019-01-03 14:58:11,517 DEBUG o.a.h.c.p.RequestAddCookies [main] Cookie [version: 0][name: JSESSIONID][value: 7018CBEB236C7D8EB811D2313A3F2AF0][domain: localhost][path: /][expiry: null] match [localhost:8083/login]
+2019-01-03 14:58:11,518 DEBUG o.a.h.c.p.RequestAuthCache [main] Auth cache not set in the context
+2019-01-03 14:58:11,518 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection request: [route: {}->http://localhost:8083][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 20]
+2019-01-03 14:58:11,519 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection leased: [id: 0][route: {}->http://localhost:8083][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2019-01-03 14:58:11,519 DEBUG o.a.h.i.c.DefaultManagedHttpClientConnection [main] http-outgoing-0: set socket timeout to 0
+2019-01-03 14:58:11,519 DEBUG o.a.h.i.e.MainClientExec [main] Executing request GET /login HTTP/1.1
+2019-01-03 14:58:11,519 DEBUG o.a.h.i.e.MainClientExec [main] Target auth state: UNCHALLENGED
+2019-01-03 14:58:11,519 DEBUG o.a.h.i.e.MainClientExec [main] Proxy auth state: UNCHALLENGED
+2019-01-03 14:58:11,520 DEBUG o.a.h.headers [main] http-outgoing-0 >> GET /login HTTP/1.1
+2019-01-03 14:58:11,520 DEBUG o.a.h.headers [main] http-outgoing-0 >> Host: localhost:8083
+2019-01-03 14:58:11,520 DEBUG o.a.h.headers [main] http-outgoing-0 >> Connection: Keep-Alive
+2019-01-03 14:58:11,520 DEBUG o.a.h.headers [main] http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.6 (Java/1.8.0_112)
+2019-01-03 14:58:11,520 DEBUG o.a.h.headers [main] http-outgoing-0 >> Cookie: JSESSIONID=7018CBEB236C7D8EB811D2313A3F2AF0
+2019-01-03 14:58:11,521 DEBUG o.a.h.headers [main] http-outgoing-0 >> Accept-Encoding: gzip,deflate
+2019-01-03 14:58:11,521 DEBUG o.a.h.wire [main] http-outgoing-0 >> "GET /login HTTP/1.1[\r][\n]"
+2019-01-03 14:58:11,521 DEBUG o.a.h.wire [main] http-outgoing-0 >> "Host: localhost:8083[\r][\n]"
+2019-01-03 14:58:11,521 DEBUG o.a.h.wire [main] http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+2019-01-03 14:58:11,521 DEBUG o.a.h.wire [main] http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.6 (Java/1.8.0_112)[\r][\n]"
+2019-01-03 14:58:11,521 DEBUG o.a.h.wire [main] http-outgoing-0 >> "Cookie: JSESSIONID=7018CBEB236C7D8EB811D2313A3F2AF0[\r][\n]"
+2019-01-03 14:58:11,522 DEBUG o.a.h.wire [main] http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2019-01-03 14:58:11,522 DEBUG o.a.h.wire [main] http-outgoing-0 >> "[\r][\n]"
+2019-01-03 14:58:11,529 DEBUG o.a.h.wire [main] http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+2019-01-03 14:58:11,529 DEBUG o.a.h.wire [main] http-outgoing-0 << "Server: Apache-Coyote/1.1[\r][\n]"
+2019-01-03 14:58:11,530 DEBUG o.a.h.wire [main] http-outgoing-0 << "X-Content-Type-Options: nosniff[\r][\n]"
+2019-01-03 14:58:11,530 DEBUG o.a.h.wire [main] http-outgoing-0 << "X-XSS-Protection: 1; mode=block[\r][\n]"
+2019-01-03 14:58:11,530 DEBUG o.a.h.wire [main] http-outgoing-0 << "Cache-Control: no-cache, no-store, max-age=0, must-revalidate[\r][\n]"
+2019-01-03 14:58:11,530 DEBUG o.a.h.wire [main] http-outgoing-0 << "Pragma: no-cache[\r][\n]"
+2019-01-03 14:58:11,530 DEBUG o.a.h.wire [main] http-outgoing-0 << "Expires: 0[\r][\n]"
+2019-01-03 14:58:11,530 DEBUG o.a.h.wire [main] http-outgoing-0 << "X-Frame-Options: DENY[\r][\n]"
+2019-01-03 14:58:11,530 DEBUG o.a.h.wire [main] http-outgoing-0 << "Content-Type: text/html;charset=UTF-8[\r][\n]"
+2019-01-03 14:58:11,530 DEBUG o.a.h.wire [main] http-outgoing-0 << "Content-Language: en-US[\r][\n]"
+2019-01-03 14:58:11,530 DEBUG o.a.h.wire [main] http-outgoing-0 << "Content-Length: 583[\r][\n]"
+2019-01-03 14:58:11,530 DEBUG o.a.h.wire [main] http-outgoing-0 << "Date: Thu, 03 Jan 2019 12:58:11 GMT[\r][\n]"
+2019-01-03 14:58:11,530 DEBUG o.a.h.wire [main] http-outgoing-0 << "[\r][\n]"
+2019-01-03 14:58:11,531 DEBUG o.a.h.headers [main] http-outgoing-0 << HTTP/1.1 200 OK
+2019-01-03 14:58:11,531 DEBUG o.a.h.headers [main] http-outgoing-0 << Server: Apache-Coyote/1.1
+2019-01-03 14:58:11,531 DEBUG o.a.h.headers [main] http-outgoing-0 << X-Content-Type-Options: nosniff
+2019-01-03 14:58:11,531 DEBUG o.a.h.headers [main] http-outgoing-0 << X-XSS-Protection: 1; mode=block
+2019-01-03 14:58:11,531 DEBUG o.a.h.headers [main] http-outgoing-0 << Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+2019-01-03 14:58:11,531 DEBUG o.a.h.headers [main] http-outgoing-0 << Pragma: no-cache
+2019-01-03 14:58:11,531 DEBUG o.a.h.headers [main] http-outgoing-0 << Expires: 0
+2019-01-03 14:58:11,531 DEBUG o.a.h.headers [main] http-outgoing-0 << X-Frame-Options: DENY
+2019-01-03 14:58:11,531 DEBUG o.a.h.headers [main] http-outgoing-0 << Content-Type: text/html;charset=UTF-8
+2019-01-03 14:58:11,531 DEBUG o.a.h.headers [main] http-outgoing-0 << Content-Language: en-US
+2019-01-03 14:58:11,531 DEBUG o.a.h.headers [main] http-outgoing-0 << Content-Length: 583
+2019-01-03 14:58:11,532 DEBUG o.a.h.headers [main] http-outgoing-0 << Date: Thu, 03 Jan 2019 12:58:11 GMT
+2019-01-03 14:58:11,532 DEBUG o.a.h.i.e.MainClientExec [main] Connection can be kept alive indefinitely
+2019-01-03 15:11:16,085 DEBUG o.a.h.c.p.RequestAddCookies [main] CookieSpec selected: default
+2019-01-03 15:11:16,099 DEBUG o.a.h.c.p.RequestAuthCache [main] Auth cache not set in the context
+2019-01-03 15:11:16,100 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection request: [route: {}->http://localhost:8083][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2019-01-03 15:11:16,112 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection leased: [id: 0][route: {}->http://localhost:8083][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2019-01-03 15:11:16,114 DEBUG o.a.h.i.e.MainClientExec [main] Opening connection {}->http://localhost:8083
+2019-01-03 15:11:16,117 DEBUG o.a.h.i.c.DefaultHttpClientConnectionOperator [main] Connecting to localhost/127.0.0.1:8083
+2019-01-03 15:11:16,119 DEBUG o.a.h.i.c.DefaultHttpClientConnectionOperator [main] Connection established 127.0.0.1:57782<->127.0.0.1:8083
+2019-01-03 15:11:16,119 DEBUG o.a.h.i.e.MainClientExec [main] Executing request GET /home HTTP/1.1
+2019-01-03 15:11:16,119 DEBUG o.a.h.i.e.MainClientExec [main] Target auth state: UNCHALLENGED
+2019-01-03 15:11:16,120 DEBUG o.a.h.i.e.MainClientExec [main] Proxy auth state: UNCHALLENGED
+2019-01-03 15:11:16,122 DEBUG o.a.h.headers [main] http-outgoing-0 >> GET /home HTTP/1.1
+2019-01-03 15:11:16,122 DEBUG o.a.h.headers [main] http-outgoing-0 >> Host: localhost:8083
+2019-01-03 15:11:16,122 DEBUG o.a.h.headers [main] http-outgoing-0 >> Connection: Keep-Alive
+2019-01-03 15:11:16,122 DEBUG o.a.h.headers [main] http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.6 (Java/1.8.0_112)
+2019-01-03 15:11:16,122 DEBUG o.a.h.headers [main] http-outgoing-0 >> Accept-Encoding: gzip,deflate
+2019-01-03 15:11:16,123 DEBUG o.a.h.wire [main] http-outgoing-0 >> "GET /home HTTP/1.1[\r][\n]"
+2019-01-03 15:11:16,123 DEBUG o.a.h.wire [main] http-outgoing-0 >> "Host: localhost:8083[\r][\n]"
+2019-01-03 15:11:16,123 DEBUG o.a.h.wire [main] http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+2019-01-03 15:11:16,123 DEBUG o.a.h.wire [main] http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.6 (Java/1.8.0_112)[\r][\n]"
+2019-01-03 15:11:16,126 DEBUG o.a.h.wire [main] http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2019-01-03 15:11:16,126 DEBUG o.a.h.wire [main] http-outgoing-0 >> "[\r][\n]"
+2019-01-03 15:11:16,134 DEBUG o.a.h.wire [main] http-outgoing-0 << "HTTP/1.1 302 Found[\r][\n]"
+2019-01-03 15:11:16,134 DEBUG o.a.h.wire [main] http-outgoing-0 << "Server: Apache-Coyote/1.1[\r][\n]"
+2019-01-03 15:11:16,135 DEBUG o.a.h.wire [main] http-outgoing-0 << "Set-Cookie: JSESSIONID=6260D00E930534D89090826CD176F058; Path=/; HttpOnly[\r][\n]"
+2019-01-03 15:11:16,135 DEBUG o.a.h.wire [main] http-outgoing-0 << "X-Content-Type-Options: nosniff[\r][\n]"
+2019-01-03 15:11:16,135 DEBUG o.a.h.wire [main] http-outgoing-0 << "X-XSS-Protection: 1; mode=block[\r][\n]"
+2019-01-03 15:11:16,135 DEBUG o.a.h.wire [main] http-outgoing-0 << "Cache-Control: no-cache, no-store, max-age=0, must-revalidate[\r][\n]"
+2019-01-03 15:11:16,135 DEBUG o.a.h.wire [main] http-outgoing-0 << "Pragma: no-cache[\r][\n]"
+2019-01-03 15:11:16,135 DEBUG o.a.h.wire [main] http-outgoing-0 << "Expires: 0[\r][\n]"
+2019-01-03 15:11:16,135 DEBUG o.a.h.wire [main] http-outgoing-0 << "X-Frame-Options: DENY[\r][\n]"
+2019-01-03 15:11:16,135 DEBUG o.a.h.wire [main] http-outgoing-0 << "Location: http://localhost:8083/login[\r][\n]"
+2019-01-03 15:11:16,136 DEBUG o.a.h.wire [main] http-outgoing-0 << "Content-Length: 0[\r][\n]"
+2019-01-03 15:11:16,136 DEBUG o.a.h.wire [main] http-outgoing-0 << "Date: Thu, 03 Jan 2019 13:11:16 GMT[\r][\n]"
+2019-01-03 15:11:16,136 DEBUG o.a.h.wire [main] http-outgoing-0 << "[\r][\n]"
+2019-01-03 15:11:16,138 DEBUG o.a.h.headers [main] http-outgoing-0 << HTTP/1.1 302 Found
+2019-01-03 15:11:16,139 DEBUG o.a.h.headers [main] http-outgoing-0 << Server: Apache-Coyote/1.1
+2019-01-03 15:11:16,139 DEBUG o.a.h.headers [main] http-outgoing-0 << Set-Cookie: JSESSIONID=6260D00E930534D89090826CD176F058; Path=/; HttpOnly
+2019-01-03 15:11:16,139 DEBUG o.a.h.headers [main] http-outgoing-0 << X-Content-Type-Options: nosniff
+2019-01-03 15:11:16,139 DEBUG o.a.h.headers [main] http-outgoing-0 << X-XSS-Protection: 1; mode=block
+2019-01-03 15:11:16,139 DEBUG o.a.h.headers [main] http-outgoing-0 << Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+2019-01-03 15:11:16,139 DEBUG o.a.h.headers [main] http-outgoing-0 << Pragma: no-cache
+2019-01-03 15:11:16,139 DEBUG o.a.h.headers [main] http-outgoing-0 << Expires: 0
+2019-01-03 15:11:16,139 DEBUG o.a.h.headers [main] http-outgoing-0 << X-Frame-Options: DENY
+2019-01-03 15:11:16,139 DEBUG o.a.h.headers [main] http-outgoing-0 << Location: http://localhost:8083/login
+2019-01-03 15:11:16,140 DEBUG o.a.h.headers [main] http-outgoing-0 << Content-Length: 0
+2019-01-03 15:11:16,140 DEBUG o.a.h.headers [main] http-outgoing-0 << Date: Thu, 03 Jan 2019 13:11:16 GMT
+2019-01-03 15:11:16,144 DEBUG o.a.h.i.e.MainClientExec [main] Connection can be kept alive indefinitely
+2019-01-03 15:11:16,144 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection [id: 0][route: {}->http://localhost:8083] can be kept alive indefinitely
+2019-01-03 15:11:16,144 DEBUG o.a.h.i.c.DefaultManagedHttpClientConnection [main] http-outgoing-0: set socket timeout to 0
+2019-01-03 15:11:16,144 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection released: [id: 0][route: {}->http://localhost:8083][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 20]
+2019-01-03 15:11:16,148 DEBUG o.a.h.c.p.ResponseProcessCookies [main] Cookie accepted [JSESSIONID="6260D00E930534D89090826CD176F058", version:0, domain:localhost, path:/, expiry:null]
+2019-01-03 15:11:16,148 DEBUG o.a.h.i.c.DefaultRedirectStrategy [main] Redirect requested to location 'http://localhost:8083/login'
+2019-01-03 15:11:16,150 DEBUG o.a.h.i.e.RedirectExec [main] Redirecting to 'http://localhost:8083/login' via {}->http://localhost:8083
+2019-01-03 15:11:16,151 DEBUG o.a.h.c.p.RequestAddCookies [main] CookieSpec selected: default
+2019-01-03 15:11:16,151 DEBUG o.a.h.c.p.RequestAddCookies [main] Cookie [version: 0][name: JSESSIONID][value: 6260D00E930534D89090826CD176F058][domain: localhost][path: /][expiry: null] match [localhost:8083/login]
+2019-01-03 15:11:16,152 DEBUG o.a.h.c.p.RequestAuthCache [main] Auth cache not set in the context
+2019-01-03 15:11:16,152 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection request: [route: {}->http://localhost:8083][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 20]
+2019-01-03 15:11:16,152 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection leased: [id: 0][route: {}->http://localhost:8083][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2019-01-03 15:11:16,153 DEBUG o.a.h.i.c.DefaultManagedHttpClientConnection [main] http-outgoing-0: set socket timeout to 0
+2019-01-03 15:11:16,153 DEBUG o.a.h.i.e.MainClientExec [main] Executing request GET /login HTTP/1.1
+2019-01-03 15:11:16,153 DEBUG o.a.h.i.e.MainClientExec [main] Target auth state: UNCHALLENGED
+2019-01-03 15:11:16,153 DEBUG o.a.h.i.e.MainClientExec [main] Proxy auth state: UNCHALLENGED
+2019-01-03 15:11:16,153 DEBUG o.a.h.headers [main] http-outgoing-0 >> GET /login HTTP/1.1
+2019-01-03 15:11:16,153 DEBUG o.a.h.headers [main] http-outgoing-0 >> Host: localhost:8083
+2019-01-03 15:11:16,153 DEBUG o.a.h.headers [main] http-outgoing-0 >> Connection: Keep-Alive
+2019-01-03 15:11:16,154 DEBUG o.a.h.headers [main] http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.6 (Java/1.8.0_112)
+2019-01-03 15:11:16,154 DEBUG o.a.h.headers [main] http-outgoing-0 >> Cookie: JSESSIONID=6260D00E930534D89090826CD176F058
+2019-01-03 15:11:16,154 DEBUG o.a.h.headers [main] http-outgoing-0 >> Accept-Encoding: gzip,deflate
+2019-01-03 15:11:16,154 DEBUG o.a.h.wire [main] http-outgoing-0 >> "GET /login HTTP/1.1[\r][\n]"
+2019-01-03 15:11:16,154 DEBUG o.a.h.wire [main] http-outgoing-0 >> "Host: localhost:8083[\r][\n]"
+2019-01-03 15:11:16,154 DEBUG o.a.h.wire [main] http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+2019-01-03 15:11:16,154 DEBUG o.a.h.wire [main] http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.6 (Java/1.8.0_112)[\r][\n]"
+2019-01-03 15:11:16,154 DEBUG o.a.h.wire [main] http-outgoing-0 >> "Cookie: JSESSIONID=6260D00E930534D89090826CD176F058[\r][\n]"
+2019-01-03 15:11:16,154 DEBUG o.a.h.wire [main] http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2019-01-03 15:11:16,154 DEBUG o.a.h.wire [main] http-outgoing-0 >> "[\r][\n]"
+2019-01-03 15:11:16,161 DEBUG o.a.h.wire [main] http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+2019-01-03 15:11:16,161 DEBUG o.a.h.wire [main] http-outgoing-0 << "Server: Apache-Coyote/1.1[\r][\n]"
+2019-01-03 15:11:16,161 DEBUG o.a.h.wire [main] http-outgoing-0 << "X-Content-Type-Options: nosniff[\r][\n]"
+2019-01-03 15:11:16,161 DEBUG o.a.h.wire [main] http-outgoing-0 << "X-XSS-Protection: 1; mode=block[\r][\n]"
+2019-01-03 15:11:16,161 DEBUG o.a.h.wire [main] http-outgoing-0 << "Cache-Control: no-cache, no-store, max-age=0, must-revalidate[\r][\n]"
+2019-01-03 15:11:16,161 DEBUG o.a.h.wire [main] http-outgoing-0 << "Pragma: no-cache[\r][\n]"
+2019-01-03 15:11:16,162 DEBUG o.a.h.wire [main] http-outgoing-0 << "Expires: 0[\r][\n]"
+2019-01-03 15:11:16,162 DEBUG o.a.h.wire [main] http-outgoing-0 << "X-Frame-Options: DENY[\r][\n]"
+2019-01-03 15:11:16,162 DEBUG o.a.h.wire [main] http-outgoing-0 << "Content-Type: text/html;charset=UTF-8[\r][\n]"
+2019-01-03 15:11:16,162 DEBUG o.a.h.wire [main] http-outgoing-0 << "Content-Language: en-US[\r][\n]"
+2019-01-03 15:11:16,162 DEBUG o.a.h.wire [main] http-outgoing-0 << "Content-Length: 583[\r][\n]"
+2019-01-03 15:11:16,162 DEBUG o.a.h.wire [main] http-outgoing-0 << "Date: Thu, 03 Jan 2019 13:11:16 GMT[\r][\n]"
+2019-01-03 15:11:16,162 DEBUG o.a.h.wire [main] http-outgoing-0 << "[\r][\n]"
+2019-01-03 15:11:16,162 DEBUG o.a.h.headers [main] http-outgoing-0 << HTTP/1.1 200 OK
+2019-01-03 15:11:16,163 DEBUG o.a.h.headers [main] http-outgoing-0 << Server: Apache-Coyote/1.1
+2019-01-03 15:11:16,163 DEBUG o.a.h.headers [main] http-outgoing-0 << X-Content-Type-Options: nosniff
+2019-01-03 15:11:16,163 DEBUG o.a.h.headers [main] http-outgoing-0 << X-XSS-Protection: 1; mode=block
+2019-01-03 15:11:16,163 DEBUG o.a.h.headers [main] http-outgoing-0 << Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+2019-01-03 15:11:16,163 DEBUG o.a.h.headers [main] http-outgoing-0 << Pragma: no-cache
+2019-01-03 15:11:16,163 DEBUG o.a.h.headers [main] http-outgoing-0 << Expires: 0
+2019-01-03 15:11:16,163 DEBUG o.a.h.headers [main] http-outgoing-0 << X-Frame-Options: DENY
+2019-01-03 15:11:16,163 DEBUG o.a.h.headers [main] http-outgoing-0 << Content-Type: text/html;charset=UTF-8
+2019-01-03 15:11:16,163 DEBUG o.a.h.headers [main] http-outgoing-0 << Content-Language: en-US
+2019-01-03 15:11:16,163 DEBUG o.a.h.headers [main] http-outgoing-0 << Content-Length: 583
+2019-01-03 15:11:16,164 DEBUG o.a.h.headers [main] http-outgoing-0 << Date: Thu, 03 Jan 2019 13:11:16 GMT
+2019-01-03 15:11:16,164 DEBUG o.a.h.i.e.MainClientExec [main] Connection can be kept alive indefinitely
+2019-01-03 15:11:16,164 DEBUG o.a.h.wire [main] http-outgoing-0 << "[\n]"
+2019-01-03 15:11:16,164 DEBUG o.a.h.wire [main] http-outgoing-0 << "[\n]"
+2019-01-03 15:11:16,165 DEBUG o.a.h.wire [main] http-outgoing-0 << "[\n]"
+2019-01-03 15:11:16,165 DEBUG o.a.h.wire [main] http-outgoing-0 << "<html>[\n]"
+2019-01-03 15:11:16,165 DEBUG o.a.h.wire [main] http-outgoing-0 << "<head><title>Login Page</title></head>[\n]"
+2019-01-03 15:11:16,165 DEBUG o.a.h.wire [main] http-outgoing-0 << "[\n]"
+2019-01-03 15:11:16,165 DEBUG o.a.h.wire [main] http-outgoing-0 << "<h3>Login with Username and Password</h3>[\n]"
+2019-01-03 15:11:16,165 DEBUG o.a.h.wire [main] http-outgoing-0 << "[\n]"
+2019-01-03 15:11:16,165 DEBUG o.a.h.wire [main] http-outgoing-0 << "[\n]"
+2019-01-03 15:11:16,165 DEBUG o.a.h.wire [main] http-outgoing-0 << "<form action="/login" method="post"> 1[\n]"
+2019-01-03 15:11:16,166 DEBUG o.a.h.wire [main] http-outgoing-0 << "    [\n]"
+2019-01-03 15:11:16,166 DEBUG o.a.h.wire [main] http-outgoing-0 << "    [\n]"
+2019-01-03 15:11:16,166 DEBUG o.a.h.wire [main] http-outgoing-0 << "    <p>[\n]"
+2019-01-03 15:11:16,166 DEBUG o.a.h.wire [main] http-outgoing-0 << "        <label for="username">Username</label>[\n]"
+2019-01-03 15:11:16,166 DEBUG o.a.h.wire [main] http-outgoing-0 << "        <input type="text" id="username" name="username"/> 4[\n]"
+2019-01-03 15:11:16,166 DEBUG o.a.h.wire [main] http-outgoing-0 << "    </p>[\n]"
+2019-01-03 15:11:16,166 DEBUG o.a.h.wire [main] http-outgoing-0 << "    <p>[\n]"
+2019-01-03 15:11:16,166 DEBUG o.a.h.wire [main] http-outgoing-0 << "        <label for="password">Password</label>[\n]"
+2019-01-03 15:11:16,166 DEBUG o.a.h.wire [main] http-outgoing-0 << "        <input type="password" id="password" name="password"/> 5[\n]"
+2019-01-03 15:11:16,166 DEBUG o.a.h.wire [main] http-outgoing-0 << "    </p>[\n]"
+2019-01-03 15:11:16,167 DEBUG o.a.h.wire [main] http-outgoing-0 << "    <input type="hidden" 6[\n]"
+2019-01-03 15:11:16,167 DEBUG o.a.h.wire [main] http-outgoing-0 << "           name="_csrf"[\n]"
+2019-01-03 15:11:16,167 DEBUG o.a.h.wire [main] http-outgoing-0 << "           value="82abaef2-2653-411e-b63c-7a137dff3ebc"/>[\n]"
+2019-01-03 15:11:16,167 DEBUG o.a.h.wire [main] http-outgoing-0 << "    <button type="submit" class="btn">Log in</button>[\n]"
+2019-01-03 15:11:16,167 DEBUG o.a.h.wire [main] http-outgoing-0 << "</form>[\n]"
+2019-01-03 15:11:16,167 DEBUG o.a.h.wire [main] http-outgoing-0 << "</body>[\n]"
+2019-01-03 15:11:16,167 DEBUG o.a.h.wire [main] http-outgoing-0 << "</html>"
+2019-01-03 15:11:16,168 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection [id: 0][route: {}->http://localhost:8083] can be kept alive indefinitely
+2019-01-03 15:11:16,168 DEBUG o.a.h.i.c.DefaultManagedHttpClientConnection [main] http-outgoing-0: set socket timeout to 0
+2019-01-03 15:11:16,168 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection released: [id: 0][route: {}->http://localhost:8083][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 20]
+2019-01-03 15:12:26,461 DEBUG o.a.h.c.p.RequestAddCookies [main] CookieSpec selected: default
+2019-01-03 15:12:26,475 DEBUG o.a.h.c.p.RequestAuthCache [main] Auth cache not set in the context
+2019-01-03 15:12:26,476 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection request: [route: {}->http://localhost:8083][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2019-01-03 15:12:26,487 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection leased: [id: 0][route: {}->http://localhost:8083][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2019-01-03 15:12:26,488 DEBUG o.a.h.i.e.MainClientExec [main] Opening connection {}->http://localhost:8083
+2019-01-03 15:12:26,491 DEBUG o.a.h.i.c.DefaultHttpClientConnectionOperator [main] Connecting to localhost/127.0.0.1:8083
+2019-01-03 15:12:26,493 DEBUG o.a.h.i.c.DefaultHttpClientConnectionOperator [main] Connection established 127.0.0.1:57790<->127.0.0.1:8083
+2019-01-03 15:12:26,494 DEBUG o.a.h.i.e.MainClientExec [main] Executing request GET /home HTTP/1.1
+2019-01-03 15:12:26,494 DEBUG o.a.h.i.e.MainClientExec [main] Target auth state: UNCHALLENGED
+2019-01-03 15:12:26,494 DEBUG o.a.h.i.e.MainClientExec [main] Proxy auth state: UNCHALLENGED
+2019-01-03 15:12:26,497 DEBUG o.a.h.headers [main] http-outgoing-0 >> GET /home HTTP/1.1
+2019-01-03 15:12:26,497 DEBUG o.a.h.headers [main] http-outgoing-0 >> Host: localhost:8083
+2019-01-03 15:12:26,498 DEBUG o.a.h.headers [main] http-outgoing-0 >> Connection: Keep-Alive
+2019-01-03 15:12:26,498 DEBUG o.a.h.headers [main] http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.6 (Java/1.8.0_112)
+2019-01-03 15:12:26,498 DEBUG o.a.h.headers [main] http-outgoing-0 >> Accept-Encoding: gzip,deflate
+2019-01-03 15:12:26,498 DEBUG o.a.h.wire [main] http-outgoing-0 >> "GET /home HTTP/1.1[\r][\n]"
+2019-01-03 15:12:26,498 DEBUG o.a.h.wire [main] http-outgoing-0 >> "Host: localhost:8083[\r][\n]"
+2019-01-03 15:12:26,498 DEBUG o.a.h.wire [main] http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+2019-01-03 15:12:26,498 DEBUG o.a.h.wire [main] http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.6 (Java/1.8.0_112)[\r][\n]"
+2019-01-03 15:12:26,498 DEBUG o.a.h.wire [main] http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2019-01-03 15:12:26,498 DEBUG o.a.h.wire [main] http-outgoing-0 >> "[\r][\n]"
+2019-01-03 15:12:26,504 DEBUG o.a.h.wire [main] http-outgoing-0 << "HTTP/1.1 302 Found[\r][\n]"
+2019-01-03 15:12:26,504 DEBUG o.a.h.wire [main] http-outgoing-0 << "Server: Apache-Coyote/1.1[\r][\n]"
+2019-01-03 15:12:26,505 DEBUG o.a.h.wire [main] http-outgoing-0 << "Set-Cookie: JSESSIONID=FFF07147C7E2ACD17989DDDA58B46DDA; Path=/; HttpOnly[\r][\n]"
+2019-01-03 15:12:26,505 DEBUG o.a.h.wire [main] http-outgoing-0 << "X-Content-Type-Options: nosniff[\r][\n]"
+2019-01-03 15:12:26,505 DEBUG o.a.h.wire [main] http-outgoing-0 << "X-XSS-Protection: 1; mode=block[\r][\n]"
+2019-01-03 15:12:26,505 DEBUG o.a.h.wire [main] http-outgoing-0 << "Cache-Control: no-cache, no-store, max-age=0, must-revalidate[\r][\n]"
+2019-01-03 15:12:26,505 DEBUG o.a.h.wire [main] http-outgoing-0 << "Pragma: no-cache[\r][\n]"
+2019-01-03 15:12:26,505 DEBUG o.a.h.wire [main] http-outgoing-0 << "Expires: 0[\r][\n]"
+2019-01-03 15:12:26,505 DEBUG o.a.h.wire [main] http-outgoing-0 << "X-Frame-Options: DENY[\r][\n]"
+2019-01-03 15:12:26,505 DEBUG o.a.h.wire [main] http-outgoing-0 << "Location: http://localhost:8083/login[\r][\n]"
+2019-01-03 15:12:26,506 DEBUG o.a.h.wire [main] http-outgoing-0 << "Content-Length: 0[\r][\n]"
+2019-01-03 15:12:26,506 DEBUG o.a.h.wire [main] http-outgoing-0 << "Date: Thu, 03 Jan 2019 13:12:26 GMT[\r][\n]"
+2019-01-03 15:12:26,506 DEBUG o.a.h.wire [main] http-outgoing-0 << "[\r][\n]"
+2019-01-03 15:12:26,508 DEBUG o.a.h.headers [main] http-outgoing-0 << HTTP/1.1 302 Found
+2019-01-03 15:12:26,508 DEBUG o.a.h.headers [main] http-outgoing-0 << Server: Apache-Coyote/1.1
+2019-01-03 15:12:26,509 DEBUG o.a.h.headers [main] http-outgoing-0 << Set-Cookie: JSESSIONID=FFF07147C7E2ACD17989DDDA58B46DDA; Path=/; HttpOnly
+2019-01-03 15:12:26,509 DEBUG o.a.h.headers [main] http-outgoing-0 << X-Content-Type-Options: nosniff
+2019-01-03 15:12:26,509 DEBUG o.a.h.headers [main] http-outgoing-0 << X-XSS-Protection: 1; mode=block
+2019-01-03 15:12:26,509 DEBUG o.a.h.headers [main] http-outgoing-0 << Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+2019-01-03 15:12:26,509 DEBUG o.a.h.headers [main] http-outgoing-0 << Pragma: no-cache
+2019-01-03 15:12:26,509 DEBUG o.a.h.headers [main] http-outgoing-0 << Expires: 0
+2019-01-03 15:12:26,509 DEBUG o.a.h.headers [main] http-outgoing-0 << X-Frame-Options: DENY
+2019-01-03 15:12:26,517 DEBUG o.a.h.headers [main] http-outgoing-0 << Location: http://localhost:8083/login
+2019-01-03 15:12:26,517 DEBUG o.a.h.headers [main] http-outgoing-0 << Content-Length: 0
+2019-01-03 15:12:26,517 DEBUG o.a.h.headers [main] http-outgoing-0 << Date: Thu, 03 Jan 2019 13:12:26 GMT
+2019-01-03 15:12:26,524 DEBUG o.a.h.i.e.MainClientExec [main] Connection can be kept alive indefinitely
+2019-01-03 15:12:26,524 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection [id: 0][route: {}->http://localhost:8083] can be kept alive indefinitely
+2019-01-03 15:12:26,525 DEBUG o.a.h.i.c.DefaultManagedHttpClientConnection [main] http-outgoing-0: set socket timeout to 0
+2019-01-03 15:12:26,525 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection released: [id: 0][route: {}->http://localhost:8083][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 20]
+2019-01-03 15:12:26,533 DEBUG o.a.h.c.p.ResponseProcessCookies [main] Cookie accepted [JSESSIONID="FFF07147C7E2ACD17989DDDA58B46DDA", version:0, domain:localhost, path:/, expiry:null]
+2019-01-03 15:12:26,533 DEBUG o.a.h.i.c.DefaultRedirectStrategy [main] Redirect requested to location 'http://localhost:8083/login'
+2019-01-03 15:12:26,536 DEBUG o.a.h.i.e.RedirectExec [main] Redirecting to 'http://localhost:8083/login' via {}->http://localhost:8083
+2019-01-03 15:12:26,538 DEBUG o.a.h.c.p.RequestAddCookies [main] CookieSpec selected: default
+2019-01-03 15:12:26,538 DEBUG o.a.h.c.p.RequestAddCookies [main] Cookie [version: 0][name: JSESSIONID][value: FFF07147C7E2ACD17989DDDA58B46DDA][domain: localhost][path: /][expiry: null] match [localhost:8083/login]
+2019-01-03 15:12:26,539 DEBUG o.a.h.c.p.RequestAuthCache [main] Auth cache not set in the context
+2019-01-03 15:12:26,539 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection request: [route: {}->http://localhost:8083][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 20]
+2019-01-03 15:12:26,540 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection leased: [id: 0][route: {}->http://localhost:8083][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2019-01-03 15:12:26,540 DEBUG o.a.h.i.c.DefaultManagedHttpClientConnection [main] http-outgoing-0: set socket timeout to 0
+2019-01-03 15:12:26,540 DEBUG o.a.h.i.e.MainClientExec [main] Executing request GET /login HTTP/1.1
+2019-01-03 15:12:26,540 DEBUG o.a.h.i.e.MainClientExec [main] Target auth state: UNCHALLENGED
+2019-01-03 15:12:26,541 DEBUG o.a.h.i.e.MainClientExec [main] Proxy auth state: UNCHALLENGED
+2019-01-03 15:12:26,541 DEBUG o.a.h.headers [main] http-outgoing-0 >> GET /login HTTP/1.1
+2019-01-03 15:12:26,541 DEBUG o.a.h.headers [main] http-outgoing-0 >> Host: localhost:8083
+2019-01-03 15:12:26,541 DEBUG o.a.h.headers [main] http-outgoing-0 >> Connection: Keep-Alive
+2019-01-03 15:12:26,541 DEBUG o.a.h.headers [main] http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.6 (Java/1.8.0_112)
+2019-01-03 15:12:26,541 DEBUG o.a.h.headers [main] http-outgoing-0 >> Cookie: JSESSIONID=FFF07147C7E2ACD17989DDDA58B46DDA
+2019-01-03 15:12:26,542 DEBUG o.a.h.headers [main] http-outgoing-0 >> Accept-Encoding: gzip,deflate
+2019-01-03 15:12:26,542 DEBUG o.a.h.wire [main] http-outgoing-0 >> "GET /login HTTP/1.1[\r][\n]"
+2019-01-03 15:12:26,542 DEBUG o.a.h.wire [main] http-outgoing-0 >> "Host: localhost:8083[\r][\n]"
+2019-01-03 15:12:26,542 DEBUG o.a.h.wire [main] http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+2019-01-03 15:12:26,542 DEBUG o.a.h.wire [main] http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.6 (Java/1.8.0_112)[\r][\n]"
+2019-01-03 15:12:26,542 DEBUG o.a.h.wire [main] http-outgoing-0 >> "Cookie: JSESSIONID=FFF07147C7E2ACD17989DDDA58B46DDA[\r][\n]"
+2019-01-03 15:12:26,542 DEBUG o.a.h.wire [main] http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2019-01-03 15:12:26,543 DEBUG o.a.h.wire [main] http-outgoing-0 >> "[\r][\n]"
+2019-01-03 15:12:26,554 DEBUG o.a.h.wire [main] http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+2019-01-03 15:12:26,554 DEBUG o.a.h.wire [main] http-outgoing-0 << "Server: Apache-Coyote/1.1[\r][\n]"
+2019-01-03 15:12:26,554 DEBUG o.a.h.wire [main] http-outgoing-0 << "X-Content-Type-Options: nosniff[\r][\n]"
+2019-01-03 15:12:26,555 DEBUG o.a.h.wire [main] http-outgoing-0 << "X-XSS-Protection: 1; mode=block[\r][\n]"
+2019-01-03 15:12:26,555 DEBUG o.a.h.wire [main] http-outgoing-0 << "Cache-Control: no-cache, no-store, max-age=0, must-revalidate[\r][\n]"
+2019-01-03 15:12:26,555 DEBUG o.a.h.wire [main] http-outgoing-0 << "Pragma: no-cache[\r][\n]"
+2019-01-03 15:12:26,555 DEBUG o.a.h.wire [main] http-outgoing-0 << "Expires: 0[\r][\n]"
+2019-01-03 15:12:26,555 DEBUG o.a.h.wire [main] http-outgoing-0 << "X-Frame-Options: DENY[\r][\n]"
+2019-01-03 15:12:26,555 DEBUG o.a.h.wire [main] http-outgoing-0 << "Content-Type: text/html;charset=UTF-8[\r][\n]"
+2019-01-03 15:12:26,555 DEBUG o.a.h.wire [main] http-outgoing-0 << "Content-Language: en-US[\r][\n]"
+2019-01-03 15:12:26,555 DEBUG o.a.h.wire [main] http-outgoing-0 << "Content-Length: 583[\r][\n]"
+2019-01-03 15:12:26,555 DEBUG o.a.h.wire [main] http-outgoing-0 << "Date: Thu, 03 Jan 2019 13:12:26 GMT[\r][\n]"
+2019-01-03 15:12:26,555 DEBUG o.a.h.wire [main] http-outgoing-0 << "[\r][\n]"
+2019-01-03 15:12:26,556 DEBUG o.a.h.headers [main] http-outgoing-0 << HTTP/1.1 200 OK
+2019-01-03 15:12:26,556 DEBUG o.a.h.headers [main] http-outgoing-0 << Server: Apache-Coyote/1.1
+2019-01-03 15:12:26,556 DEBUG o.a.h.headers [main] http-outgoing-0 << X-Content-Type-Options: nosniff
+2019-01-03 15:12:26,556 DEBUG o.a.h.headers [main] http-outgoing-0 << X-XSS-Protection: 1; mode=block
+2019-01-03 15:12:26,556 DEBUG o.a.h.headers [main] http-outgoing-0 << Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+2019-01-03 15:12:26,556 DEBUG o.a.h.headers [main] http-outgoing-0 << Pragma: no-cache
+2019-01-03 15:12:26,556 DEBUG o.a.h.headers [main] http-outgoing-0 << Expires: 0
+2019-01-03 15:12:26,556 DEBUG o.a.h.headers [main] http-outgoing-0 << X-Frame-Options: DENY
+2019-01-03 15:12:26,556 DEBUG o.a.h.headers [main] http-outgoing-0 << Content-Type: text/html;charset=UTF-8
+2019-01-03 15:12:26,556 DEBUG o.a.h.headers [main] http-outgoing-0 << Content-Language: en-US
+2019-01-03 15:12:26,557 DEBUG o.a.h.headers [main] http-outgoing-0 << Content-Length: 583
+2019-01-03 15:12:26,557 DEBUG o.a.h.headers [main] http-outgoing-0 << Date: Thu, 03 Jan 2019 13:12:26 GMT
+2019-01-03 15:12:26,557 DEBUG o.a.h.i.e.MainClientExec [main] Connection can be kept alive indefinitely
+2019-01-03 15:12:26,558 DEBUG o.a.h.wire [main] http-outgoing-0 << "[\n]"
+2019-01-03 15:12:26,558 DEBUG o.a.h.wire [main] http-outgoing-0 << "[\n]"
+2019-01-03 15:12:26,559 DEBUG o.a.h.wire [main] http-outgoing-0 << "[\n]"
+2019-01-03 15:12:26,559 DEBUG o.a.h.wire [main] http-outgoing-0 << "<html>[\n]"
+2019-01-03 15:12:26,559 DEBUG o.a.h.wire [main] http-outgoing-0 << "<head><title>Login Page</title></head>[\n]"
+2019-01-03 15:12:26,559 DEBUG o.a.h.wire [main] http-outgoing-0 << "[\n]"
+2019-01-03 15:12:26,559 DEBUG o.a.h.wire [main] http-outgoing-0 << "<h3>Login with Username and Password</h3>[\n]"
+2019-01-03 15:12:26,559 DEBUG o.a.h.wire [main] http-outgoing-0 << "[\n]"
+2019-01-03 15:12:26,559 DEBUG o.a.h.wire [main] http-outgoing-0 << "[\n]"
+2019-01-03 15:12:26,559 DEBUG o.a.h.wire [main] http-outgoing-0 << "<form action="/login" method="post"> 1[\n]"
+2019-01-03 15:12:26,560 DEBUG o.a.h.wire [main] http-outgoing-0 << "    [\n]"
+2019-01-03 15:12:26,560 DEBUG o.a.h.wire [main] http-outgoing-0 << "    [\n]"
+2019-01-03 15:12:26,560 DEBUG o.a.h.wire [main] http-outgoing-0 << "    <p>[\n]"
+2019-01-03 15:12:26,560 DEBUG o.a.h.wire [main] http-outgoing-0 << "        <label for="username">Username</label>[\n]"
+2019-01-03 15:12:26,560 DEBUG o.a.h.wire [main] http-outgoing-0 << "        <input type="text" id="username" name="username"/> 4[\n]"
+2019-01-03 15:12:26,560 DEBUG o.a.h.wire [main] http-outgoing-0 << "    </p>[\n]"
+2019-01-03 15:12:26,560 DEBUG o.a.h.wire [main] http-outgoing-0 << "    <p>[\n]"
+2019-01-03 15:12:26,560 DEBUG o.a.h.wire [main] http-outgoing-0 << "        <label for="password">Password</label>[\n]"
+2019-01-03 15:12:26,560 DEBUG o.a.h.wire [main] http-outgoing-0 << "        <input type="password" id="password" name="password"/> 5[\n]"
+2019-01-03 15:12:26,560 DEBUG o.a.h.wire [main] http-outgoing-0 << "    </p>[\n]"
+2019-01-03 15:12:26,561 DEBUG o.a.h.wire [main] http-outgoing-0 << "    <input type="hidden" 6[\n]"
+2019-01-03 15:12:26,561 DEBUG o.a.h.wire [main] http-outgoing-0 << "           name="_csrf"[\n]"
+2019-01-03 15:12:26,561 DEBUG o.a.h.wire [main] http-outgoing-0 << "           value="8abe867a-1505-449a-9b8a-ff3a49912e98"/>[\n]"
+2019-01-03 15:12:26,561 DEBUG o.a.h.wire [main] http-outgoing-0 << "    <button type="submit" class="btn">Log in</button>[\n]"
+2019-01-03 15:12:26,561 DEBUG o.a.h.wire [main] http-outgoing-0 << "</form>[\n]"
+2019-01-03 15:12:26,561 DEBUG o.a.h.wire [main] http-outgoing-0 << "</body>[\n]"
+2019-01-03 15:12:26,561 DEBUG o.a.h.wire [main] http-outgoing-0 << "</html>"
+2019-01-03 15:12:26,562 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection [id: 0][route: {}->http://localhost:8083] can be kept alive indefinitely
+2019-01-03 15:12:26,562 DEBUG o.a.h.i.c.DefaultManagedHttpClientConnection [main] http-outgoing-0: set socket timeout to 0
+2019-01-03 15:12:26,562 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection released: [id: 0][route: {}->http://localhost:8083][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 20]
+2019-01-03 15:21:57,525 DEBUG o.a.h.c.p.RequestAddCookies [main] CookieSpec selected: default
+2019-01-03 15:21:57,550 DEBUG o.a.h.c.p.RequestAuthCache [main] Auth cache not set in the context
+2019-01-03 15:21:57,551 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection request: [route: {}->http://localhost:8083][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2019-01-03 15:21:57,582 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection leased: [id: 0][route: {}->http://localhost:8083][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2019-01-03 15:21:57,584 DEBUG o.a.h.i.e.MainClientExec [main] Opening connection {}->http://localhost:8083
+2019-01-03 15:21:57,587 DEBUG o.a.h.i.c.DefaultHttpClientConnectionOperator [main] Connecting to localhost/127.0.0.1:8083
+2019-01-03 15:21:57,589 DEBUG o.a.h.i.c.DefaultHttpClientConnectionOperator [main] Connection established 127.0.0.1:57858<->127.0.0.1:8083
+2019-01-03 15:21:57,589 DEBUG o.a.h.i.e.MainClientExec [main] Executing request GET /home HTTP/1.1
+2019-01-03 15:21:57,589 DEBUG o.a.h.i.e.MainClientExec [main] Target auth state: UNCHALLENGED
+2019-01-03 15:21:57,589 DEBUG o.a.h.i.e.MainClientExec [main] Proxy auth state: UNCHALLENGED
+2019-01-03 15:21:57,591 DEBUG o.a.h.headers [main] http-outgoing-0 >> GET /home HTTP/1.1
+2019-01-03 15:21:57,591 DEBUG o.a.h.headers [main] http-outgoing-0 >> Host: localhost:8083
+2019-01-03 15:21:57,592 DEBUG o.a.h.headers [main] http-outgoing-0 >> Connection: Keep-Alive
+2019-01-03 15:21:57,592 DEBUG o.a.h.headers [main] http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.6 (Java/1.8.0_112)
+2019-01-03 15:21:57,592 DEBUG o.a.h.headers [main] http-outgoing-0 >> Accept-Encoding: gzip,deflate
+2019-01-03 15:21:57,592 DEBUG o.a.h.wire [main] http-outgoing-0 >> "GET /home HTTP/1.1[\r][\n]"
+2019-01-03 15:21:57,592 DEBUG o.a.h.wire [main] http-outgoing-0 >> "Host: localhost:8083[\r][\n]"
+2019-01-03 15:21:57,592 DEBUG o.a.h.wire [main] http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+2019-01-03 15:21:57,592 DEBUG o.a.h.wire [main] http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.6 (Java/1.8.0_112)[\r][\n]"
+2019-01-03 15:21:57,595 DEBUG o.a.h.wire [main] http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2019-01-03 15:21:57,595 DEBUG o.a.h.wire [main] http-outgoing-0 >> "[\r][\n]"
+2019-01-03 15:21:57,605 DEBUG o.a.h.wire [main] http-outgoing-0 << "HTTP/1.1 302 Found[\r][\n]"
+2019-01-03 15:21:57,605 DEBUG o.a.h.wire [main] http-outgoing-0 << "Server: Apache-Coyote/1.1[\r][\n]"
+2019-01-03 15:21:57,605 DEBUG o.a.h.wire [main] http-outgoing-0 << "Set-Cookie: JSESSIONID=72A2EBD966B1D6B950B0E5BFC85D903F; Path=/; HttpOnly[\r][\n]"
+2019-01-03 15:21:57,605 DEBUG o.a.h.wire [main] http-outgoing-0 << "X-Content-Type-Options: nosniff[\r][\n]"
+2019-01-03 15:21:57,606 DEBUG o.a.h.wire [main] http-outgoing-0 << "X-XSS-Protection: 1; mode=block[\r][\n]"
+2019-01-03 15:21:57,606 DEBUG o.a.h.wire [main] http-outgoing-0 << "Cache-Control: no-cache, no-store, max-age=0, must-revalidate[\r][\n]"
+2019-01-03 15:21:57,606 DEBUG o.a.h.wire [main] http-outgoing-0 << "Pragma: no-cache[\r][\n]"
+2019-01-03 15:21:57,606 DEBUG o.a.h.wire [main] http-outgoing-0 << "Expires: 0[\r][\n]"
+2019-01-03 15:21:57,606 DEBUG o.a.h.wire [main] http-outgoing-0 << "X-Frame-Options: DENY[\r][\n]"
+2019-01-03 15:21:57,607 DEBUG o.a.h.wire [main] http-outgoing-0 << "Location: http://localhost:8083/login[\r][\n]"
+2019-01-03 15:21:57,607 DEBUG o.a.h.wire [main] http-outgoing-0 << "Content-Length: 0[\r][\n]"
+2019-01-03 15:21:57,607 DEBUG o.a.h.wire [main] http-outgoing-0 << "Date: Thu, 03 Jan 2019 13:21:57 GMT[\r][\n]"
+2019-01-03 15:21:57,607 DEBUG o.a.h.wire [main] http-outgoing-0 << "[\r][\n]"
+2019-01-03 15:21:57,610 DEBUG o.a.h.headers [main] http-outgoing-0 << HTTP/1.1 302 Found
+2019-01-03 15:21:57,610 DEBUG o.a.h.headers [main] http-outgoing-0 << Server: Apache-Coyote/1.1
+2019-01-03 15:21:57,610 DEBUG o.a.h.headers [main] http-outgoing-0 << Set-Cookie: JSESSIONID=72A2EBD966B1D6B950B0E5BFC85D903F; Path=/; HttpOnly
+2019-01-03 15:21:57,610 DEBUG o.a.h.headers [main] http-outgoing-0 << X-Content-Type-Options: nosniff
+2019-01-03 15:21:57,611 DEBUG o.a.h.headers [main] http-outgoing-0 << X-XSS-Protection: 1; mode=block
+2019-01-03 15:21:57,611 DEBUG o.a.h.headers [main] http-outgoing-0 << Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+2019-01-03 15:21:57,611 DEBUG o.a.h.headers [main] http-outgoing-0 << Pragma: no-cache
+2019-01-03 15:21:57,611 DEBUG o.a.h.headers [main] http-outgoing-0 << Expires: 0
+2019-01-03 15:21:57,611 DEBUG o.a.h.headers [main] http-outgoing-0 << X-Frame-Options: DENY
+2019-01-03 15:21:57,611 DEBUG o.a.h.headers [main] http-outgoing-0 << Location: http://localhost:8083/login
+2019-01-03 15:21:57,611 DEBUG o.a.h.headers [main] http-outgoing-0 << Content-Length: 0
+2019-01-03 15:21:57,611 DEBUG o.a.h.headers [main] http-outgoing-0 << Date: Thu, 03 Jan 2019 13:21:57 GMT
+2019-01-03 15:21:57,616 DEBUG o.a.h.i.e.MainClientExec [main] Connection can be kept alive indefinitely
+2019-01-03 15:21:57,616 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection [id: 0][route: {}->http://localhost:8083] can be kept alive indefinitely
+2019-01-03 15:21:57,616 DEBUG o.a.h.i.c.DefaultManagedHttpClientConnection [main] http-outgoing-0: set socket timeout to 0
+2019-01-03 15:21:57,617 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection released: [id: 0][route: {}->http://localhost:8083][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 20]
+2019-01-03 15:21:57,624 DEBUG o.a.h.c.p.ResponseProcessCookies [main] Cookie accepted [JSESSIONID="72A2EBD966B1D6B950B0E5BFC85D903F", version:0, domain:localhost, path:/, expiry:null]
+2019-01-03 15:21:57,625 DEBUG o.a.h.i.c.DefaultRedirectStrategy [main] Redirect requested to location 'http://localhost:8083/login'
+2019-01-03 15:21:57,627 DEBUG o.a.h.i.e.RedirectExec [main] Redirecting to 'http://localhost:8083/login' via {}->http://localhost:8083
+2019-01-03 15:21:57,628 DEBUG o.a.h.c.p.RequestAddCookies [main] CookieSpec selected: default
+2019-01-03 15:21:57,629 DEBUG o.a.h.c.p.RequestAddCookies [main] Cookie [version: 0][name: JSESSIONID][value: 72A2EBD966B1D6B950B0E5BFC85D903F][domain: localhost][path: /][expiry: null] match [localhost:8083/login]
+2019-01-03 15:21:57,629 DEBUG o.a.h.c.p.RequestAuthCache [main] Auth cache not set in the context
+2019-01-03 15:21:57,630 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection request: [route: {}->http://localhost:8083][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 20]
+2019-01-03 15:21:57,630 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection leased: [id: 0][route: {}->http://localhost:8083][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2019-01-03 15:21:57,630 DEBUG o.a.h.i.c.DefaultManagedHttpClientConnection [main] http-outgoing-0: set socket timeout to 0
+2019-01-03 15:21:57,630 DEBUG o.a.h.i.e.MainClientExec [main] Executing request GET /login HTTP/1.1
+2019-01-03 15:21:57,630 DEBUG o.a.h.i.e.MainClientExec [main] Target auth state: UNCHALLENGED
+2019-01-03 15:21:57,630 DEBUG o.a.h.i.e.MainClientExec [main] Proxy auth state: UNCHALLENGED
+2019-01-03 15:21:57,631 DEBUG o.a.h.headers [main] http-outgoing-0 >> GET /login HTTP/1.1
+2019-01-03 15:21:57,631 DEBUG o.a.h.headers [main] http-outgoing-0 >> Host: localhost:8083
+2019-01-03 15:21:57,631 DEBUG o.a.h.headers [main] http-outgoing-0 >> Connection: Keep-Alive
+2019-01-03 15:21:57,631 DEBUG o.a.h.headers [main] http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.6 (Java/1.8.0_112)
+2019-01-03 15:21:57,631 DEBUG o.a.h.headers [main] http-outgoing-0 >> Cookie: JSESSIONID=72A2EBD966B1D6B950B0E5BFC85D903F
+2019-01-03 15:21:57,631 DEBUG o.a.h.headers [main] http-outgoing-0 >> Accept-Encoding: gzip,deflate
+2019-01-03 15:21:57,631 DEBUG o.a.h.wire [main] http-outgoing-0 >> "GET /login HTTP/1.1[\r][\n]"
+2019-01-03 15:21:57,632 DEBUG o.a.h.wire [main] http-outgoing-0 >> "Host: localhost:8083[\r][\n]"
+2019-01-03 15:21:57,632 DEBUG o.a.h.wire [main] http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+2019-01-03 15:21:57,632 DEBUG o.a.h.wire [main] http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.6 (Java/1.8.0_112)[\r][\n]"
+2019-01-03 15:21:57,632 DEBUG o.a.h.wire [main] http-outgoing-0 >> "Cookie: JSESSIONID=72A2EBD966B1D6B950B0E5BFC85D903F[\r][\n]"
+2019-01-03 15:21:57,632 DEBUG o.a.h.wire [main] http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2019-01-03 15:21:57,632 DEBUG o.a.h.wire [main] http-outgoing-0 >> "[\r][\n]"
+2019-01-03 15:21:57,640 DEBUG o.a.h.wire [main] http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+2019-01-03 15:21:57,640 DEBUG o.a.h.wire [main] http-outgoing-0 << "Server: Apache-Coyote/1.1[\r][\n]"
+2019-01-03 15:21:57,641 DEBUG o.a.h.wire [main] http-outgoing-0 << "X-Content-Type-Options: nosniff[\r][\n]"
+2019-01-03 15:21:57,641 DEBUG o.a.h.wire [main] http-outgoing-0 << "X-XSS-Protection: 1; mode=block[\r][\n]"
+2019-01-03 15:21:57,641 DEBUG o.a.h.wire [main] http-outgoing-0 << "Cache-Control: no-cache, no-store, max-age=0, must-revalidate[\r][\n]"
+2019-01-03 15:21:57,641 DEBUG o.a.h.wire [main] http-outgoing-0 << "Pragma: no-cache[\r][\n]"
+2019-01-03 15:21:57,641 DEBUG o.a.h.wire [main] http-outgoing-0 << "Expires: 0[\r][\n]"
+2019-01-03 15:21:57,641 DEBUG o.a.h.wire [main] http-outgoing-0 << "X-Frame-Options: DENY[\r][\n]"
+2019-01-03 15:21:57,641 DEBUG o.a.h.wire [main] http-outgoing-0 << "Content-Type: text/html;charset=UTF-8[\r][\n]"
+2019-01-03 15:21:57,641 DEBUG o.a.h.wire [main] http-outgoing-0 << "Content-Language: en-US[\r][\n]"
+2019-01-03 15:21:57,641 DEBUG o.a.h.wire [main] http-outgoing-0 << "Content-Length: 583[\r][\n]"
+2019-01-03 15:21:57,642 DEBUG o.a.h.wire [main] http-outgoing-0 << "Date: Thu, 03 Jan 2019 13:21:57 GMT[\r][\n]"
+2019-01-03 15:21:57,642 DEBUG o.a.h.wire [main] http-outgoing-0 << "[\r][\n]"
+2019-01-03 15:21:57,642 DEBUG o.a.h.headers [main] http-outgoing-0 << HTTP/1.1 200 OK
+2019-01-03 15:21:57,642 DEBUG o.a.h.headers [main] http-outgoing-0 << Server: Apache-Coyote/1.1
+2019-01-03 15:21:57,642 DEBUG o.a.h.headers [main] http-outgoing-0 << X-Content-Type-Options: nosniff
+2019-01-03 15:21:57,642 DEBUG o.a.h.headers [main] http-outgoing-0 << X-XSS-Protection: 1; mode=block
+2019-01-03 15:21:57,642 DEBUG o.a.h.headers [main] http-outgoing-0 << Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+2019-01-03 15:21:57,642 DEBUG o.a.h.headers [main] http-outgoing-0 << Pragma: no-cache
+2019-01-03 15:21:57,642 DEBUG o.a.h.headers [main] http-outgoing-0 << Expires: 0
+2019-01-03 15:21:57,642 DEBUG o.a.h.headers [main] http-outgoing-0 << X-Frame-Options: DENY
+2019-01-03 15:21:57,643 DEBUG o.a.h.headers [main] http-outgoing-0 << Content-Type: text/html;charset=UTF-8
+2019-01-03 15:21:57,643 DEBUG o.a.h.headers [main] http-outgoing-0 << Content-Language: en-US
+2019-01-03 15:21:57,643 DEBUG o.a.h.headers [main] http-outgoing-0 << Content-Length: 583
+2019-01-03 15:21:57,643 DEBUG o.a.h.headers [main] http-outgoing-0 << Date: Thu, 03 Jan 2019 13:21:57 GMT
+2019-01-03 15:21:57,643 DEBUG o.a.h.i.e.MainClientExec [main] Connection can be kept alive indefinitely
+2019-01-03 15:21:57,644 DEBUG o.a.h.wire [main] http-outgoing-0 << "[\n]"
+2019-01-03 15:21:57,644 DEBUG o.a.h.wire [main] http-outgoing-0 << "[\n]"
+2019-01-03 15:21:57,644 DEBUG o.a.h.wire [main] http-outgoing-0 << "[\n]"
+2019-01-03 15:21:57,644 DEBUG o.a.h.wire [main] http-outgoing-0 << "<html>[\n]"
+2019-01-03 15:21:57,644 DEBUG o.a.h.wire [main] http-outgoing-0 << "<head><title>Login Page</title></head>[\n]"
+2019-01-03 15:21:57,644 DEBUG o.a.h.wire [main] http-outgoing-0 << "[\n]"
+2019-01-03 15:21:57,644 DEBUG o.a.h.wire [main] http-outgoing-0 << "<h3>Login with Username and Password</h3>[\n]"
+2019-01-03 15:21:57,644 DEBUG o.a.h.wire [main] http-outgoing-0 << "[\n]"
+2019-01-03 15:21:57,644 DEBUG o.a.h.wire [main] http-outgoing-0 << "[\n]"
+2019-01-03 15:21:57,644 DEBUG o.a.h.wire [main] http-outgoing-0 << "<form action="/login" method="post"> 1[\n]"
+2019-01-03 15:21:57,644 DEBUG o.a.h.wire [main] http-outgoing-0 << "    [\n]"
+2019-01-03 15:21:57,645 DEBUG o.a.h.wire [main] http-outgoing-0 << "    [\n]"
+2019-01-03 15:21:57,645 DEBUG o.a.h.wire [main] http-outgoing-0 << "    <p>[\n]"
+2019-01-03 15:21:57,645 DEBUG o.a.h.wire [main] http-outgoing-0 << "        <label for="username">Username</label>[\n]"
+2019-01-03 15:21:57,645 DEBUG o.a.h.wire [main] http-outgoing-0 << "        <input type="text" id="username" name="username"/> 4[\n]"
+2019-01-03 15:21:57,645 DEBUG o.a.h.wire [main] http-outgoing-0 << "    </p>[\n]"
+2019-01-03 15:21:57,645 DEBUG o.a.h.wire [main] http-outgoing-0 << "    <p>[\n]"
+2019-01-03 15:21:57,645 DEBUG o.a.h.wire [main] http-outgoing-0 << "        <label for="password">Password</label>[\n]"
+2019-01-03 15:21:57,645 DEBUG o.a.h.wire [main] http-outgoing-0 << "        <input type="password" id="password" name="password"/> 5[\n]"
+2019-01-03 15:21:57,645 DEBUG o.a.h.wire [main] http-outgoing-0 << "    </p>[\n]"
+2019-01-03 15:21:57,645 DEBUG o.a.h.wire [main] http-outgoing-0 << "    <input type="hidden" 6[\n]"
+2019-01-03 15:21:57,645 DEBUG o.a.h.wire [main] http-outgoing-0 << "           name="_csrf"[\n]"
+2019-01-03 15:21:57,646 DEBUG o.a.h.wire [main] http-outgoing-0 << "           value="d6754154-41c1-49fb-9828-f2304298cdaf"/>[\n]"
+2019-01-03 15:21:57,646 DEBUG o.a.h.wire [main] http-outgoing-0 << "    <button type="submit" class="btn">Log in</button>[\n]"
+2019-01-03 15:21:57,646 DEBUG o.a.h.wire [main] http-outgoing-0 << "</form>[\n]"
+2019-01-03 15:21:57,646 DEBUG o.a.h.wire [main] http-outgoing-0 << "</body>[\n]"
+2019-01-03 15:21:57,646 DEBUG o.a.h.wire [main] http-outgoing-0 << "</html>"
+2019-01-03 15:21:57,646 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection [id: 0][route: {}->http://localhost:8083] can be kept alive indefinitely
+2019-01-03 15:21:57,647 DEBUG o.a.h.i.c.DefaultManagedHttpClientConnection [main] http-outgoing-0: set socket timeout to 0
+2019-01-03 15:21:57,647 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection released: [id: 0][route: {}->http://localhost:8083][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 20]
+2019-01-03 15:22:23,642 DEBUG o.a.h.c.p.RequestAddCookies [main] CookieSpec selected: default
+2019-01-03 15:22:23,654 DEBUG o.a.h.c.p.RequestAuthCache [main] Auth cache not set in the context
+2019-01-03 15:22:23,655 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection request: [route: {}->http://localhost:8083][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2019-01-03 15:22:23,664 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection leased: [id: 0][route: {}->http://localhost:8083][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2019-01-03 15:22:23,665 DEBUG o.a.h.i.e.MainClientExec [main] Opening connection {}->http://localhost:8083
+2019-01-03 15:22:23,669 DEBUG o.a.h.i.c.DefaultHttpClientConnectionOperator [main] Connecting to localhost/127.0.0.1:8083
+2019-01-03 15:22:23,670 DEBUG o.a.h.i.c.DefaultHttpClientConnectionOperator [main] Connection established 127.0.0.1:57863<->127.0.0.1:8083
+2019-01-03 15:22:23,671 DEBUG o.a.h.i.e.MainClientExec [main] Executing request GET /home HTTP/1.1
+2019-01-03 15:22:23,671 DEBUG o.a.h.i.e.MainClientExec [main] Target auth state: UNCHALLENGED
+2019-01-03 15:22:23,671 DEBUG o.a.h.i.e.MainClientExec [main] Proxy auth state: UNCHALLENGED
+2019-01-03 15:22:23,674 DEBUG o.a.h.headers [main] http-outgoing-0 >> GET /home HTTP/1.1
+2019-01-03 15:22:23,674 DEBUG o.a.h.headers [main] http-outgoing-0 >> Host: localhost:8083
+2019-01-03 15:22:23,674 DEBUG o.a.h.headers [main] http-outgoing-0 >> Connection: Keep-Alive
+2019-01-03 15:22:23,674 DEBUG o.a.h.headers [main] http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.6 (Java/1.8.0_112)
+2019-01-03 15:22:23,674 DEBUG o.a.h.headers [main] http-outgoing-0 >> Accept-Encoding: gzip,deflate
+2019-01-03 15:22:23,674 DEBUG o.a.h.wire [main] http-outgoing-0 >> "GET /home HTTP/1.1[\r][\n]"
+2019-01-03 15:22:23,675 DEBUG o.a.h.wire [main] http-outgoing-0 >> "Host: localhost:8083[\r][\n]"
+2019-01-03 15:22:23,675 DEBUG o.a.h.wire [main] http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+2019-01-03 15:22:23,675 DEBUG o.a.h.wire [main] http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.6 (Java/1.8.0_112)[\r][\n]"
+2019-01-03 15:22:23,677 DEBUG o.a.h.wire [main] http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2019-01-03 15:22:23,677 DEBUG o.a.h.wire [main] http-outgoing-0 >> "[\r][\n]"
+2019-01-03 15:22:23,682 DEBUG o.a.h.wire [main] http-outgoing-0 << "HTTP/1.1 302 Found[\r][\n]"
+2019-01-03 15:22:23,682 DEBUG o.a.h.wire [main] http-outgoing-0 << "Server: Apache-Coyote/1.1[\r][\n]"
+2019-01-03 15:22:23,682 DEBUG o.a.h.wire [main] http-outgoing-0 << "Set-Cookie: JSESSIONID=59E553294AA4DC0490897088AF314BED; Path=/; HttpOnly[\r][\n]"
+2019-01-03 15:22:23,682 DEBUG o.a.h.wire [main] http-outgoing-0 << "X-Content-Type-Options: nosniff[\r][\n]"
+2019-01-03 15:22:23,683 DEBUG o.a.h.wire [main] http-outgoing-0 << "X-XSS-Protection: 1; mode=block[\r][\n]"
+2019-01-03 15:22:23,683 DEBUG o.a.h.wire [main] http-outgoing-0 << "Cache-Control: no-cache, no-store, max-age=0, must-revalidate[\r][\n]"
+2019-01-03 15:22:23,683 DEBUG o.a.h.wire [main] http-outgoing-0 << "Pragma: no-cache[\r][\n]"
+2019-01-03 15:22:23,683 DEBUG o.a.h.wire [main] http-outgoing-0 << "Expires: 0[\r][\n]"
+2019-01-03 15:22:23,683 DEBUG o.a.h.wire [main] http-outgoing-0 << "X-Frame-Options: DENY[\r][\n]"
+2019-01-03 15:22:23,683 DEBUG o.a.h.wire [main] http-outgoing-0 << "Location: http://localhost:8083/login[\r][\n]"
+2019-01-03 15:22:23,683 DEBUG o.a.h.wire [main] http-outgoing-0 << "Content-Length: 0[\r][\n]"
+2019-01-03 15:22:23,684 DEBUG o.a.h.wire [main] http-outgoing-0 << "Date: Thu, 03 Jan 2019 13:22:23 GMT[\r][\n]"
+2019-01-03 15:22:23,684 DEBUG o.a.h.wire [main] http-outgoing-0 << "[\r][\n]"
+2019-01-03 15:22:23,686 DEBUG o.a.h.headers [main] http-outgoing-0 << HTTP/1.1 302 Found
+2019-01-03 15:22:23,686 DEBUG o.a.h.headers [main] http-outgoing-0 << Server: Apache-Coyote/1.1
+2019-01-03 15:22:23,687 DEBUG o.a.h.headers [main] http-outgoing-0 << Set-Cookie: JSESSIONID=59E553294AA4DC0490897088AF314BED; Path=/; HttpOnly
+2019-01-03 15:22:23,687 DEBUG o.a.h.headers [main] http-outgoing-0 << X-Content-Type-Options: nosniff
+2019-01-03 15:22:23,687 DEBUG o.a.h.headers [main] http-outgoing-0 << X-XSS-Protection: 1; mode=block
+2019-01-03 15:22:23,687 DEBUG o.a.h.headers [main] http-outgoing-0 << Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+2019-01-03 15:22:23,687 DEBUG o.a.h.headers [main] http-outgoing-0 << Pragma: no-cache
+2019-01-03 15:22:23,687 DEBUG o.a.h.headers [main] http-outgoing-0 << Expires: 0
+2019-01-03 15:22:23,687 DEBUG o.a.h.headers [main] http-outgoing-0 << X-Frame-Options: DENY
+2019-01-03 15:22:23,687 DEBUG o.a.h.headers [main] http-outgoing-0 << Location: http://localhost:8083/login
+2019-01-03 15:22:23,688 DEBUG o.a.h.headers [main] http-outgoing-0 << Content-Length: 0
+2019-01-03 15:22:23,688 DEBUG o.a.h.headers [main] http-outgoing-0 << Date: Thu, 03 Jan 2019 13:22:23 GMT
+2019-01-03 15:22:23,692 DEBUG o.a.h.i.e.MainClientExec [main] Connection can be kept alive indefinitely
+2019-01-03 15:22:23,692 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection [id: 0][route: {}->http://localhost:8083] can be kept alive indefinitely
+2019-01-03 15:22:23,692 DEBUG o.a.h.i.c.DefaultManagedHttpClientConnection [main] http-outgoing-0: set socket timeout to 0
+2019-01-03 15:22:23,693 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection released: [id: 0][route: {}->http://localhost:8083][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 20]
+2019-01-03 15:22:23,697 DEBUG o.a.h.c.p.ResponseProcessCookies [main] Cookie accepted [JSESSIONID="59E553294AA4DC0490897088AF314BED", version:0, domain:localhost, path:/, expiry:null]
+2019-01-03 15:22:23,697 DEBUG o.a.h.i.c.DefaultRedirectStrategy [main] Redirect requested to location 'http://localhost:8083/login'
+2019-01-03 15:22:23,699 DEBUG o.a.h.i.e.RedirectExec [main] Redirecting to 'http://localhost:8083/login' via {}->http://localhost:8083
+2019-01-03 15:22:23,700 DEBUG o.a.h.c.p.RequestAddCookies [main] CookieSpec selected: default
+2019-01-03 15:22:23,700 DEBUG o.a.h.c.p.RequestAddCookies [main] Cookie [version: 0][name: JSESSIONID][value: 59E553294AA4DC0490897088AF314BED][domain: localhost][path: /][expiry: null] match [localhost:8083/login]
+2019-01-03 15:22:23,701 DEBUG o.a.h.c.p.RequestAuthCache [main] Auth cache not set in the context
+2019-01-03 15:22:23,701 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection request: [route: {}->http://localhost:8083][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 20]
+2019-01-03 15:22:23,701 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection leased: [id: 0][route: {}->http://localhost:8083][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2019-01-03 15:22:23,701 DEBUG o.a.h.i.c.DefaultManagedHttpClientConnection [main] http-outgoing-0: set socket timeout to 0
+2019-01-03 15:22:23,701 DEBUG o.a.h.i.e.MainClientExec [main] Executing request GET /login HTTP/1.1
+2019-01-03 15:22:23,702 DEBUG o.a.h.i.e.MainClientExec [main] Target auth state: UNCHALLENGED
+2019-01-03 15:22:23,702 DEBUG o.a.h.i.e.MainClientExec [main] Proxy auth state: UNCHALLENGED
+2019-01-03 15:22:23,702 DEBUG o.a.h.headers [main] http-outgoing-0 >> GET /login HTTP/1.1
+2019-01-03 15:22:23,702 DEBUG o.a.h.headers [main] http-outgoing-0 >> Host: localhost:8083
+2019-01-03 15:22:23,702 DEBUG o.a.h.headers [main] http-outgoing-0 >> Connection: Keep-Alive
+2019-01-03 15:22:23,703 DEBUG o.a.h.headers [main] http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.6 (Java/1.8.0_112)
+2019-01-03 15:22:23,703 DEBUG o.a.h.headers [main] http-outgoing-0 >> Cookie: JSESSIONID=59E553294AA4DC0490897088AF314BED
+2019-01-03 15:22:23,703 DEBUG o.a.h.headers [main] http-outgoing-0 >> Accept-Encoding: gzip,deflate
+2019-01-03 15:22:23,703 DEBUG o.a.h.wire [main] http-outgoing-0 >> "GET /login HTTP/1.1[\r][\n]"
+2019-01-03 15:22:23,703 DEBUG o.a.h.wire [main] http-outgoing-0 >> "Host: localhost:8083[\r][\n]"
+2019-01-03 15:22:23,703 DEBUG o.a.h.wire [main] http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+2019-01-03 15:22:23,703 DEBUG o.a.h.wire [main] http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.6 (Java/1.8.0_112)[\r][\n]"
+2019-01-03 15:22:23,703 DEBUG o.a.h.wire [main] http-outgoing-0 >> "Cookie: JSESSIONID=59E553294AA4DC0490897088AF314BED[\r][\n]"
+2019-01-03 15:22:23,703 DEBUG o.a.h.wire [main] http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2019-01-03 15:22:23,704 DEBUG o.a.h.wire [main] http-outgoing-0 >> "[\r][\n]"
+2019-01-03 15:22:23,708 DEBUG o.a.h.wire [main] http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+2019-01-03 15:22:23,708 DEBUG o.a.h.wire [main] http-outgoing-0 << "Server: Apache-Coyote/1.1[\r][\n]"
+2019-01-03 15:22:23,708 DEBUG o.a.h.wire [main] http-outgoing-0 << "X-Content-Type-Options: nosniff[\r][\n]"
+2019-01-03 15:22:23,708 DEBUG o.a.h.wire [main] http-outgoing-0 << "X-XSS-Protection: 1; mode=block[\r][\n]"
+2019-01-03 15:22:23,708 DEBUG o.a.h.wire [main] http-outgoing-0 << "Cache-Control: no-cache, no-store, max-age=0, must-revalidate[\r][\n]"
+2019-01-03 15:22:23,708 DEBUG o.a.h.wire [main] http-outgoing-0 << "Pragma: no-cache[\r][\n]"
+2019-01-03 15:22:23,709 DEBUG o.a.h.wire [main] http-outgoing-0 << "Expires: 0[\r][\n]"
+2019-01-03 15:22:23,709 DEBUG o.a.h.wire [main] http-outgoing-0 << "X-Frame-Options: DENY[\r][\n]"
+2019-01-03 15:22:23,709 DEBUG o.a.h.wire [main] http-outgoing-0 << "Content-Type: text/html;charset=UTF-8[\r][\n]"
+2019-01-03 15:22:23,709 DEBUG o.a.h.wire [main] http-outgoing-0 << "Content-Language: en-US[\r][\n]"
+2019-01-03 15:22:23,709 DEBUG o.a.h.wire [main] http-outgoing-0 << "Content-Length: 583[\r][\n]"
+2019-01-03 15:22:23,709 DEBUG o.a.h.wire [main] http-outgoing-0 << "Date: Thu, 03 Jan 2019 13:22:23 GMT[\r][\n]"
+2019-01-03 15:22:23,709 DEBUG o.a.h.wire [main] http-outgoing-0 << "[\r][\n]"
+2019-01-03 15:22:23,709 DEBUG o.a.h.headers [main] http-outgoing-0 << HTTP/1.1 200 OK
+2019-01-03 15:22:23,709 DEBUG o.a.h.headers [main] http-outgoing-0 << Server: Apache-Coyote/1.1
+2019-01-03 15:22:23,709 DEBUG o.a.h.headers [main] http-outgoing-0 << X-Content-Type-Options: nosniff
+2019-01-03 15:22:23,709 DEBUG o.a.h.headers [main] http-outgoing-0 << X-XSS-Protection: 1; mode=block
+2019-01-03 15:22:23,709 DEBUG o.a.h.headers [main] http-outgoing-0 << Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+2019-01-03 15:22:23,709 DEBUG o.a.h.headers [main] http-outgoing-0 << Pragma: no-cache
+2019-01-03 15:22:23,710 DEBUG o.a.h.headers [main] http-outgoing-0 << Expires: 0
+2019-01-03 15:22:23,710 DEBUG o.a.h.headers [main] http-outgoing-0 << X-Frame-Options: DENY
+2019-01-03 15:22:23,710 DEBUG o.a.h.headers [main] http-outgoing-0 << Content-Type: text/html;charset=UTF-8
+2019-01-03 15:22:23,710 DEBUG o.a.h.headers [main] http-outgoing-0 << Content-Language: en-US
+2019-01-03 15:22:23,710 DEBUG o.a.h.headers [main] http-outgoing-0 << Content-Length: 583
+2019-01-03 15:22:23,710 DEBUG o.a.h.headers [main] http-outgoing-0 << Date: Thu, 03 Jan 2019 13:22:23 GMT
+2019-01-03 15:22:23,711 DEBUG o.a.h.i.e.MainClientExec [main] Connection can be kept alive indefinitely
+2019-01-03 15:22:23,711 DEBUG o.a.h.wire [main] http-outgoing-0 << "[\n]"
+2019-01-03 15:22:23,711 DEBUG o.a.h.wire [main] http-outgoing-0 << "[\n]"
+2019-01-03 15:22:23,711 DEBUG o.a.h.wire [main] http-outgoing-0 << "[\n]"
+2019-01-03 15:22:23,711 DEBUG o.a.h.wire [main] http-outgoing-0 << "<html>[\n]"
+2019-01-03 15:22:23,712 DEBUG o.a.h.wire [main] http-outgoing-0 << "<head><title>Login Page</title></head>[\n]"
+2019-01-03 15:22:23,712 DEBUG o.a.h.wire [main] http-outgoing-0 << "[\n]"
+2019-01-03 15:22:23,712 DEBUG o.a.h.wire [main] http-outgoing-0 << "<h3>Login with Username and Password</h3>[\n]"
+2019-01-03 15:22:23,712 DEBUG o.a.h.wire [main] http-outgoing-0 << "[\n]"
+2019-01-03 15:22:23,712 DEBUG o.a.h.wire [main] http-outgoing-0 << "[\n]"
+2019-01-03 15:22:23,712 DEBUG o.a.h.wire [main] http-outgoing-0 << "<form action="/login" method="post"> 1[\n]"
+2019-01-03 15:22:23,712 DEBUG o.a.h.wire [main] http-outgoing-0 << "    [\n]"
+2019-01-03 15:22:23,712 DEBUG o.a.h.wire [main] http-outgoing-0 << "    [\n]"
+2019-01-03 15:22:23,712 DEBUG o.a.h.wire [main] http-outgoing-0 << "    <p>[\n]"
+2019-01-03 15:22:23,712 DEBUG o.a.h.wire [main] http-outgoing-0 << "        <label for="username">Username</label>[\n]"
+2019-01-03 15:22:23,712 DEBUG o.a.h.wire [main] http-outgoing-0 << "        <input type="text" id="username" name="username"/> 4[\n]"
+2019-01-03 15:22:23,712 DEBUG o.a.h.wire [main] http-outgoing-0 << "    </p>[\n]"
+2019-01-03 15:22:23,713 DEBUG o.a.h.wire [main] http-outgoing-0 << "    <p>[\n]"
+2019-01-03 15:22:23,713 DEBUG o.a.h.wire [main] http-outgoing-0 << "        <label for="password">Password</label>[\n]"
+2019-01-03 15:22:23,713 DEBUG o.a.h.wire [main] http-outgoing-0 << "        <input type="password" id="password" name="password"/> 5[\n]"
+2019-01-03 15:22:23,713 DEBUG o.a.h.wire [main] http-outgoing-0 << "    </p>[\n]"
+2019-01-03 15:22:23,713 DEBUG o.a.h.wire [main] http-outgoing-0 << "    <input type="hidden" 6[\n]"
+2019-01-03 15:22:23,713 DEBUG o.a.h.wire [main] http-outgoing-0 << "           name="_csrf"[\n]"
+2019-01-03 15:22:23,713 DEBUG o.a.h.wire [main] http-outgoing-0 << "           value="72a22ecc-ffea-4702-9c09-26d11d0b7b20"/>[\n]"
+2019-01-03 15:22:23,713 DEBUG o.a.h.wire [main] http-outgoing-0 << "    <button type="submit" class="btn">Log in</button>[\n]"
+2019-01-03 15:22:23,713 DEBUG o.a.h.wire [main] http-outgoing-0 << "</form>[\n]"
+2019-01-03 15:22:23,714 DEBUG o.a.h.wire [main] http-outgoing-0 << "</body>[\n]"
+2019-01-03 15:22:23,714 DEBUG o.a.h.wire [main] http-outgoing-0 << "</html>"
+2019-01-03 15:22:23,714 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection [id: 0][route: {}->http://localhost:8083] can be kept alive indefinitely
+2019-01-03 15:22:23,714 DEBUG o.a.h.i.c.DefaultManagedHttpClientConnection [main] http-outgoing-0: set socket timeout to 0
+2019-01-03 15:22:23,714 DEBUG o.a.h.i.c.PoolingHttpClientConnectionManager [main] Connection released: [id: 0][route: {}->http://localhost:8083][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 20]

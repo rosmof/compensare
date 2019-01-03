@@ -1,0 +1,434 @@
+2018-12-03 16:16:06,586 INFO o.s.t.c.s.DefaultTestContextBootstrapper [main] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2018-12-03 16:16:06,608 INFO o.s.t.c.s.DefaultTestContextBootstrapper [main] Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@4d9e68d0, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@42e99e4a, org.springframework.test.context.support.DirtiesContextTestExecutionListener@14dd9eb7]
+2018-12-03 17:32:03,426 INFO o.s.t.c.s.DefaultTestContextBootstrapper [main] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2018-12-03 17:32:03,434 INFO o.s.t.c.s.DefaultTestContextBootstrapper [main] Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@498d318c, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@6e171cd7, org.springframework.test.context.support.DirtiesContextTestExecutionListener@402bba4f]
+2018-12-03 17:34:10,828 INFO o.s.t.c.s.DefaultTestContextBootstrapper [main] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2018-12-03 17:34:10,837 INFO o.s.t.c.s.DefaultTestContextBootstrapper [main] Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@6e171cd7, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@402bba4f, org.springframework.test.context.support.DirtiesContextTestExecutionListener@795cd85e]
+2018-12-03 17:34:11,150 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album
+2018-12-03 17:34:11,163 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album
+2018-12-03 17:34:41,353 INFO o.s.t.c.s.DefaultTestContextBootstrapper [main] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2018-12-03 17:34:41,361 INFO o.s.t.c.s.DefaultTestContextBootstrapper [main] Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@6e171cd7, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@402bba4f, org.springframework.test.context.support.DirtiesContextTestExecutionListener@795cd85e]
+2018-12-03 17:34:41,745 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album
+2018-12-03 17:34:41,763 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album
+2018-12-03 17:36:12,719 INFO o.s.t.c.s.DefaultTestContextBootstrapper [main] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2018-12-03 17:36:12,755 INFO o.s.t.c.s.DefaultTestContextBootstrapper [main] Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@6e171cd7, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@402bba4f, org.springframework.test.context.support.DirtiesContextTestExecutionListener@795cd85e]
+2018-12-03 17:36:13,053 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album
+2018-12-03 17:36:13,068 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album
+2018-12-03 17:36:28,943 INFO o.s.t.c.s.DefaultTestContextBootstrapper [main] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2018-12-03 17:36:28,950 INFO o.s.t.c.s.DefaultTestContextBootstrapper [main] Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@6e171cd7, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@402bba4f, org.springframework.test.context.support.DirtiesContextTestExecutionListener@795cd85e]
+2018-12-03 17:36:29,302 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album
+2018-12-03 17:37:30,170 INFO o.s.t.c.s.DefaultTestContextBootstrapper [main] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2018-12-03 17:37:30,179 INFO o.s.t.c.s.DefaultTestContextBootstrapper [main] Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@6e171cd7, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@402bba4f, org.springframework.test.context.support.DirtiesContextTestExecutionListener@795cd85e]
+2018-12-03 17:37:30,553 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album
+2018-12-03 17:38:57,431 INFO o.s.t.c.s.DefaultTestContextBootstrapper [main] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2018-12-03 17:38:57,441 INFO o.s.t.c.s.DefaultTestContextBootstrapper [main] Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@6e171cd7, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@402bba4f, org.springframework.test.context.support.DirtiesContextTestExecutionListener@795cd85e]
+2018-12-03 17:38:57,766 WARN o.s.c.s.GenericApplicationContext [main] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'CDPlayer' defined in file [/Users/AlexandruG/Dropbox (ROSMOF)/99. Proiecte/compensare/splitterRepository/modules/config/target/classes/ro/rosmof/config/various/CDPlayer.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'ro.rosmof.config.various.CompactDisc' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+2018-12-03 17:38:57,771 ERROR o.s.t.c.TestContextManager [main] Caught exception while allowing TestExecutionListener [org.springframework.test.context.support.DependencyInjectionTestExecutionListener@402bba4f] to prepare test instance [ro.rosmof.config.SpringTesting@23f5b5dc]
+java.lang.IllegalStateException: Failed to load ApplicationContext
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:125) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.support.DefaultTestContext.getApplicationContext(DefaultTestContext.java:108) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.injectDependencies(DependencyInjectionTestExecutionListener.java:118) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.prepareTestInstance(DependencyInjectionTestExecutionListener.java:83) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:246) [spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.createTest(SpringJUnit4ClassRunner.java:227) [spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner$1.runReflectiveCall(SpringJUnit4ClassRunner.java:289) [spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.methodBlock(SpringJUnit4ClassRunner.java:291) [spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:246) [spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:97) [spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61) [spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70) [spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:190) [spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137) [junit-4.12.jar:4.12]
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68) [junit-rt.jar:?]
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47) [junit-rt.jar:?]
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242) [junit-rt.jar:?]
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70) [junit-rt.jar:?]
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'CDPlayer' defined in file [/Users/AlexandruG/Dropbox (ROSMOF)/99. Proiecte/compensare/splitterRepository/modules/config/target/classes/ro/rosmof/config/various/CDPlayer.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'ro.rosmof.config.various.CompactDisc' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:769) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:218) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1308) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1154) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:538) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:498) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:846) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:863) ~[spring-context-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:546) ~[spring-context-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.support.AbstractGenericContextLoader.loadContext(AbstractGenericContextLoader.java:128) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.support.AbstractGenericContextLoader.loadContext(AbstractGenericContextLoader.java:60) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.support.AbstractDelegatingSmartContextLoader.delegateLoading(AbstractDelegatingSmartContextLoader.java:275) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.support.AbstractDelegatingSmartContextLoader.loadContext(AbstractDelegatingSmartContextLoader.java:243) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContextInternal(DefaultCacheAwareContextLoaderDelegate.java:99) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:117) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	... 24 more
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'ro.rosmof.config.various.CompactDisc' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.raiseNoMatchingBeanFound(DefaultListableBeanFactory.java:1644) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1203) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1164) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:857) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:760) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:218) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1308) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1154) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:538) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:498) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:846) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:863) ~[spring-context-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:546) ~[spring-context-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.support.AbstractGenericContextLoader.loadContext(AbstractGenericContextLoader.java:128) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.support.AbstractGenericContextLoader.loadContext(AbstractGenericContextLoader.java:60) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.support.AbstractDelegatingSmartContextLoader.delegateLoading(AbstractDelegatingSmartContextLoader.java:275) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.support.AbstractDelegatingSmartContextLoader.loadContext(AbstractDelegatingSmartContextLoader.java:243) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContextInternal(DefaultCacheAwareContextLoaderDelegate.java:99) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:117) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	... 24 more
+2018-12-03 17:39:32,046 INFO o.s.t.c.s.DefaultTestContextBootstrapper [main] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2018-12-03 17:39:32,054 INFO o.s.t.c.s.DefaultTestContextBootstrapper [main] Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@402bba4f, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@795cd85e, org.springframework.test.context.support.DirtiesContextTestExecutionListener@59fd97a8]
+2018-12-03 17:39:32,526 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album
+2018-12-03 17:39:32,526 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album
+2018-12-03 17:39:32,527 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album
+2018-12-03 17:39:32,527 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album
+2018-12-03 17:39:32,527 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album
+2018-12-03 17:39:32,527 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album
+2018-12-03 17:39:32,528 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album
+2018-12-03 17:39:32,528 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album
+2018-12-03 17:39:32,528 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album
+2018-12-03 17:39:32,528 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album
+2018-12-03 17:39:53,695 INFO o.s.t.c.s.DefaultTestContextBootstrapper [main] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2018-12-03 17:39:53,703 INFO o.s.t.c.s.DefaultTestContextBootstrapper [main] Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@402bba4f, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@795cd85e, org.springframework.test.context.support.DirtiesContextTestExecutionListener@59fd97a8]
+2018-12-03 17:39:54,110 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album
+2018-12-03 17:39:54,110 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album
+2018-12-03 17:39:54,110 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album
+2018-12-03 17:39:54,110 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album
+2018-12-03 17:39:54,110 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album
+2018-12-03 17:39:54,111 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album
+2018-12-03 17:39:54,111 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album
+2018-12-03 17:39:54,111 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album
+2018-12-03 17:39:54,111 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album
+2018-12-03 17:39:54,111 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album
+2018-12-03 17:40:14,116 INFO o.s.t.c.s.DefaultTestContextBootstrapper [main] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2018-12-03 17:40:14,124 INFO o.s.t.c.s.DefaultTestContextBootstrapper [main] Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@402bba4f, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@795cd85e, org.springframework.test.context.support.DirtiesContextTestExecutionListener@59fd97a8]
+2018-12-03 17:40:14,570 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album , 1605851606
+2018-12-03 17:40:14,571 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album , 1605851606
+2018-12-03 17:40:14,571 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album , 1605851606
+2018-12-03 17:40:14,571 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album , 1605851606
+2018-12-03 17:40:14,571 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album , 1605851606
+2018-12-03 17:40:14,571 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album , 1605851606
+2018-12-03 17:40:14,572 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album , 1605851606
+2018-12-03 17:40:14,572 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album , 1605851606
+2018-12-03 17:40:14,573 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album , 1605851606
+2018-12-03 17:40:14,574 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album , 1605851606
+2018-12-03 17:42:20,790 INFO o.s.t.c.s.DefaultTestContextBootstrapper [main] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2018-12-03 17:42:20,805 INFO o.s.t.c.s.DefaultTestContextBootstrapper [main] Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@402bba4f, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@795cd85e, org.springframework.test.context.support.DirtiesContextTestExecutionListener@59fd97a8]
+2018-12-03 17:42:21,146 WARN o.s.c.s.GenericApplicationContext [main] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: Invalid bean definition with name 'cdPlayer' defined in class path resource [spring/spring.configuration.xml]: Validation of method overrides failed; nested exception is org.springframework.beans.factory.support.BeanDefinitionValidationException: Invalid method override: no method with name '' on class [ro.rosmof.config.various.CDPlayer]
+2018-12-03 17:42:21,150 ERROR o.s.t.c.TestContextManager [main] Caught exception while allowing TestExecutionListener [org.springframework.test.context.support.DependencyInjectionTestExecutionListener@795cd85e] to prepare test instance [ro.rosmof.config.SpringTesting@65987993]
+java.lang.IllegalStateException: Failed to load ApplicationContext
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:125) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.support.DefaultTestContext.getApplicationContext(DefaultTestContext.java:108) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.injectDependencies(DependencyInjectionTestExecutionListener.java:118) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.prepareTestInstance(DependencyInjectionTestExecutionListener.java:83) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:246) [spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.createTest(SpringJUnit4ClassRunner.java:227) [spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner$1.runReflectiveCall(SpringJUnit4ClassRunner.java:289) [spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.methodBlock(SpringJUnit4ClassRunner.java:291) [spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:246) [spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:97) [spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61) [spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70) [spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:190) [spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137) [junit-4.12.jar:4.12]
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68) [junit-rt.jar:?]
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47) [junit-rt.jar:?]
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242) [junit-rt.jar:?]
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70) [junit-rt.jar:?]
+Caused by: org.springframework.beans.factory.BeanDefinitionStoreException: Invalid bean definition with name 'cdPlayer' defined in class path resource [spring/spring.configuration.xml]: Validation of method overrides failed; nested exception is org.springframework.beans.factory.support.BeanDefinitionValidationException: Invalid method override: no method with name '' on class [ro.rosmof.config.various.CDPlayer]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:481) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:846) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:863) ~[spring-context-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:546) ~[spring-context-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.support.AbstractGenericContextLoader.loadContext(AbstractGenericContextLoader.java:128) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.support.AbstractGenericContextLoader.loadContext(AbstractGenericContextLoader.java:60) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.support.AbstractDelegatingSmartContextLoader.delegateLoading(AbstractDelegatingSmartContextLoader.java:275) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.support.AbstractDelegatingSmartContextLoader.loadContext(AbstractDelegatingSmartContextLoader.java:243) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContextInternal(DefaultCacheAwareContextLoaderDelegate.java:99) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:117) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	... 24 more
+Caused by: org.springframework.beans.factory.support.BeanDefinitionValidationException: Invalid method override: no method with name '' on class [ro.rosmof.config.various.CDPlayer]
+	at org.springframework.beans.factory.support.AbstractBeanDefinition.prepareMethodOverride(AbstractBeanDefinition.java:1096) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanDefinition.prepareMethodOverrides(AbstractBeanDefinition.java:1078) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:478) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:846) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:863) ~[spring-context-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:546) ~[spring-context-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.support.AbstractGenericContextLoader.loadContext(AbstractGenericContextLoader.java:128) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.support.AbstractGenericContextLoader.loadContext(AbstractGenericContextLoader.java:60) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.support.AbstractDelegatingSmartContextLoader.delegateLoading(AbstractDelegatingSmartContextLoader.java:275) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.support.AbstractDelegatingSmartContextLoader.loadContext(AbstractDelegatingSmartContextLoader.java:243) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContextInternal(DefaultCacheAwareContextLoaderDelegate.java:99) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:117) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	... 24 more
+2018-12-03 17:42:43,048 INFO o.s.t.c.s.DefaultTestContextBootstrapper [main] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2018-12-03 17:42:43,056 INFO o.s.t.c.s.DefaultTestContextBootstrapper [main] Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@402bba4f, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@795cd85e, org.springframework.test.context.support.DirtiesContextTestExecutionListener@59fd97a8]
+2018-12-03 17:42:43,490 WARN o.s.c.s.GenericApplicationContext [main] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: Invalid bean definition with name 'cdPlayer' defined in class path resource [spring/spring.configuration.xml]: Validation of method overrides failed; nested exception is org.springframework.beans.factory.support.BeanDefinitionValidationException: Invalid method override: no method with name '' on class [ro.rosmof.config.various.CDPlayer]
+2018-12-03 17:42:43,493 ERROR o.s.t.c.TestContextManager [main] Caught exception while allowing TestExecutionListener [org.springframework.test.context.support.DependencyInjectionTestExecutionListener@795cd85e] to prepare test instance [ro.rosmof.config.SpringTesting@65987993]
+java.lang.IllegalStateException: Failed to load ApplicationContext
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:125) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.support.DefaultTestContext.getApplicationContext(DefaultTestContext.java:108) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.injectDependencies(DependencyInjectionTestExecutionListener.java:118) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.prepareTestInstance(DependencyInjectionTestExecutionListener.java:83) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:246) [spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.createTest(SpringJUnit4ClassRunner.java:227) [spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner$1.runReflectiveCall(SpringJUnit4ClassRunner.java:289) [spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.methodBlock(SpringJUnit4ClassRunner.java:291) [spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:246) [spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:97) [spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61) [spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70) [spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:190) [spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137) [junit-4.12.jar:4.12]
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68) [junit-rt.jar:?]
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47) [junit-rt.jar:?]
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242) [junit-rt.jar:?]
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70) [junit-rt.jar:?]
+Caused by: org.springframework.beans.factory.BeanDefinitionStoreException: Invalid bean definition with name 'cdPlayer' defined in class path resource [spring/spring.configuration.xml]: Validation of method overrides failed; nested exception is org.springframework.beans.factory.support.BeanDefinitionValidationException: Invalid method override: no method with name '' on class [ro.rosmof.config.various.CDPlayer]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:481) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:846) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:863) ~[spring-context-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:546) ~[spring-context-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.support.AbstractGenericContextLoader.loadContext(AbstractGenericContextLoader.java:128) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.support.AbstractGenericContextLoader.loadContext(AbstractGenericContextLoader.java:60) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.support.AbstractDelegatingSmartContextLoader.delegateLoading(AbstractDelegatingSmartContextLoader.java:275) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.support.AbstractDelegatingSmartContextLoader.loadContext(AbstractDelegatingSmartContextLoader.java:243) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContextInternal(DefaultCacheAwareContextLoaderDelegate.java:99) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:117) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	... 24 more
+Caused by: org.springframework.beans.factory.support.BeanDefinitionValidationException: Invalid method override: no method with name '' on class [ro.rosmof.config.various.CDPlayer]
+	at org.springframework.beans.factory.support.AbstractBeanDefinition.prepareMethodOverride(AbstractBeanDefinition.java:1096) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanDefinition.prepareMethodOverrides(AbstractBeanDefinition.java:1078) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:478) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:846) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:863) ~[spring-context-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:546) ~[spring-context-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.support.AbstractGenericContextLoader.loadContext(AbstractGenericContextLoader.java:128) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.support.AbstractGenericContextLoader.loadContext(AbstractGenericContextLoader.java:60) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.support.AbstractDelegatingSmartContextLoader.delegateLoading(AbstractDelegatingSmartContextLoader.java:275) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.support.AbstractDelegatingSmartContextLoader.loadContext(AbstractDelegatingSmartContextLoader.java:243) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContextInternal(DefaultCacheAwareContextLoaderDelegate.java:99) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:117) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	... 24 more
+2018-12-03 17:44:06,009 INFO o.s.t.c.s.DefaultTestContextBootstrapper [main] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2018-12-03 17:44:06,019 INFO o.s.t.c.s.DefaultTestContextBootstrapper [main] Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@402bba4f, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@795cd85e, org.springframework.test.context.support.DirtiesContextTestExecutionListener@59fd97a8]
+2018-12-03 17:44:06,445 ERROR o.s.t.c.TestContextManager [main] Caught exception while allowing TestExecutionListener [org.springframework.test.context.support.DependencyInjectionTestExecutionListener@795cd85e] to prepare test instance [ro.rosmof.config.SpringTesting@2dfaea86]
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'ro.rosmof.config.SpringTesting': Unsatisfied dependency expressed through field 'player'; nested exception is org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'ro.rosmof.config.various.MediaPlayer' available: expected single matching bean but found 2: CDPlayer,cdPlayer
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:596) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:90) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:374) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1378) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireBeanProperties(AbstractAutowireCapableBeanFactory.java:396) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.injectDependencies(DependencyInjectionTestExecutionListener.java:119) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.prepareTestInstance(DependencyInjectionTestExecutionListener.java:83) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:246) [spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.createTest(SpringJUnit4ClassRunner.java:227) [spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner$1.runReflectiveCall(SpringJUnit4ClassRunner.java:289) [spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.methodBlock(SpringJUnit4ClassRunner.java:291) [spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:246) [spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:97) [spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61) [spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70) [spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:190) [spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137) [junit-4.12.jar:4.12]
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68) [junit-rt.jar:?]
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47) [junit-rt.jar:?]
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242) [junit-rt.jar:?]
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70) [junit-rt.jar:?]
+Caused by: org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'ro.rosmof.config.various.MediaPlayer' available: expected single matching bean but found 2: CDPlayer,cdPlayer
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveNotUnique(DependencyDescriptor.java:217) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1215) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1164) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:593) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	... 27 more
+2018-12-03 17:46:40,731 INFO o.s.t.c.s.DefaultTestContextBootstrapper [main] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2018-12-03 17:46:40,740 INFO o.s.t.c.s.DefaultTestContextBootstrapper [main] Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@402bba4f, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@795cd85e, org.springframework.test.context.support.DirtiesContextTestExecutionListener@59fd97a8]
+2018-12-03 17:46:41,083 ERROR o.s.t.c.TestContextManager [main] Caught exception while allowing TestExecutionListener [org.springframework.test.context.support.DependencyInjectionTestExecutionListener@795cd85e] to prepare test instance [ro.rosmof.config.SpringTesting@2dfaea86]
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'ro.rosmof.config.SpringTesting': Unsatisfied dependency expressed through field 'player'; nested exception is org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'ro.rosmof.config.various.MediaPlayer' available: expected single matching bean but found 2: CDPlayer,cdPlayer
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:596) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:90) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:374) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1378) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireBeanProperties(AbstractAutowireCapableBeanFactory.java:396) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.injectDependencies(DependencyInjectionTestExecutionListener.java:119) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.prepareTestInstance(DependencyInjectionTestExecutionListener.java:83) ~[spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:246) [spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.createTest(SpringJUnit4ClassRunner.java:227) [spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner$1.runReflectiveCall(SpringJUnit4ClassRunner.java:289) [spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.methodBlock(SpringJUnit4ClassRunner.java:291) [spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:246) [spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:97) [spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61) [spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70) [spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:190) [spring-test-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137) [junit-4.12.jar:4.12]
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68) [junit-rt.jar:?]
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47) [junit-rt.jar:?]
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242) [junit-rt.jar:?]
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70) [junit-rt.jar:?]
+Caused by: org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'ro.rosmof.config.various.MediaPlayer' available: expected single matching bean but found 2: CDPlayer,cdPlayer
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveNotUnique(DependencyDescriptor.java:217) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1215) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1164) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:593) ~[spring-beans-5.1.3.RELEASE.jar:5.1.3.RELEASE]
+	... 27 more
+2018-12-03 17:47:10,595 INFO o.s.t.c.s.DefaultTestContextBootstrapper [main] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2018-12-03 17:47:10,603 INFO o.s.t.c.s.DefaultTestContextBootstrapper [main] Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@402bba4f, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@795cd85e, org.springframework.test.context.support.DirtiesContextTestExecutionListener@59fd97a8]
+2018-12-03 17:47:11,012 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album , 272678513
+2018-12-03 17:47:11,013 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album , 272678513
+2018-12-03 17:47:11,013 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album , 272678513
+2018-12-03 17:47:11,013 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album , 272678513
+2018-12-03 17:47:11,013 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album , 272678513
+2018-12-03 17:47:11,013 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album , 272678513
+2018-12-03 17:47:11,014 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album , 272678513
+2018-12-03 17:47:11,014 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album , 272678513
+2018-12-03 17:47:11,014 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album , 272678513
+2018-12-03 17:47:11,014 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album , 272678513
+2018-12-03 17:47:32,431 INFO o.s.t.c.s.DefaultTestContextBootstrapper [main] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2018-12-03 17:47:32,441 INFO o.s.t.c.s.DefaultTestContextBootstrapper [main] Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@402bba4f, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@795cd85e, org.springframework.test.context.support.DirtiesContextTestExecutionListener@59fd97a8]
+2018-12-03 17:47:32,838 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album , 272678513
+2018-12-03 17:47:32,838 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album , 272678513
+2018-12-03 17:47:32,838 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album , 272678513
+2018-12-03 17:47:32,839 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album , 272678513
+2018-12-03 17:47:32,839 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album , 272678513
+2018-12-03 17:47:32,839 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album , 272678513
+2018-12-03 17:47:32,839 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album , 272678513
+2018-12-03 17:47:32,839 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album , 272678513
+2018-12-03 17:47:32,840 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album , 272678513
+2018-12-03 17:47:32,840 INFO r.r.c.v.SonyDisc [main] Artist: Cedry2k , album: Cedry2k album , 272678513
+2018-12-03 18:05:42,703 INFO o.s.t.c.s.DefaultTestContextBootstrapper [main] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2018-12-03 18:05:42,721 INFO o.s.t.c.s.DefaultTestContextBootstrapper [main] Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@6e171cd7, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@402bba4f, org.springframework.test.context.support.DirtiesContextTestExecutionListener@795cd85e]
+2018-12-03 18:07:04,153 INFO o.s.t.c.s.DefaultTestContextBootstrapper [main] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2018-12-03 18:07:04,163 INFO o.s.t.c.s.DefaultTestContextBootstrapper [main] Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@6e171cd7, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@402bba4f, org.springframework.test.context.support.DirtiesContextTestExecutionListener@795cd85e]
+2018-12-03 18:07:04,450 INFO r.r.c.v.GraphServiceImpl [main] constructor
+2018-12-03 18:07:04,474 INFO r.r.c.v.GraphServiceImpl [main] getGraphList
+2018-12-03 18:07:57,012 INFO o.s.t.c.s.DefaultTestContextBootstrapper [main] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2018-12-03 18:07:57,021 INFO o.s.t.c.s.DefaultTestContextBootstrapper [main] Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@6e171cd7, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@402bba4f, org.springframework.test.context.support.DirtiesContextTestExecutionListener@795cd85e]
+2018-12-03 18:07:57,393 INFO r.r.c.v.GraphServiceImpl [main] constructor
+2018-12-03 18:07:57,433 INFO r.r.c.v.GraphServiceImpl [main] getGraphList
+2018-12-03 18:07:57,433 INFO r.r.c.v.GraphDaoImpl [main] getByDate
+2018-12-03 18:13:00,708 INFO o.s.t.c.s.DefaultTestContextBootstrapper [main] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2018-12-03 18:13:00,718 INFO o.s.t.c.s.DefaultTestContextBootstrapper [main] Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@6e171cd7, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@402bba4f, org.springframework.test.context.support.DirtiesContextTestExecutionListener@795cd85e]
+2018-12-03 18:13:01,057 INFO r.r.c.v.GraphServiceImpl [main] constructor
+2018-12-03 18:13:01,089 INFO r.r.c.v.GraphServiceImpl [main] getGraphList
+2018-12-03 18:13:01,091 INFO r.r.c.v.GraphDaoImpl [main] getByDate
+2018-12-03 18:13:23,236 INFO o.s.t.c.s.DefaultTestContextBootstrapper [main] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2018-12-03 18:13:23,247 INFO o.s.t.c.s.DefaultTestContextBootstrapper [main] Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@6e171cd7, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@402bba4f, org.springframework.test.context.support.DirtiesContextTestExecutionListener@795cd85e]
+2018-12-03 18:13:23,632 INFO r.r.c.v.GraphServiceImpl [main] constructor
+2018-12-03 18:13:23,666 INFO r.r.c.v.GraphServiceImpl [main] getGraphList
+2018-12-03 18:13:23,670 INFO r.r.c.v.GraphDaoImpl [main] getByDate -> 702025003
+2018-12-03 18:14:56,510 INFO o.s.t.c.s.DefaultTestContextBootstrapper [main] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2018-12-03 18:14:56,521 INFO o.s.t.c.s.DefaultTestContextBootstrapper [main] Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@6e171cd7, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@402bba4f, org.springframework.test.context.support.DirtiesContextTestExecutionListener@795cd85e]
+2018-12-03 18:14:56,915 INFO r.r.c.v.GraphServiceImpl [main] constructor
+2018-12-03 18:14:56,945 INFO r.r.c.v.GraphServiceImpl [main] getGraphList
+2018-12-03 18:14:56,947 INFO r.r.c.v.GraphDaoImpl [main] getByDate -> 702025003
+2018-12-03 18:15:17,833 INFO o.s.t.c.s.DefaultTestContextBootstrapper [main] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2018-12-03 18:15:17,841 INFO o.s.t.c.s.DefaultTestContextBootstrapper [main] Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@6e171cd7, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@402bba4f, org.springframework.test.context.support.DirtiesContextTestExecutionListener@795cd85e]
+2018-12-03 18:15:18,205 INFO r.r.c.v.GraphServiceImpl [main] constructor
+2018-12-03 18:15:18,240 INFO r.r.c.v.GraphServiceImpl [main] getGraphList
+2018-12-03 18:15:18,242 INFO r.r.c.v.GraphDaoImpl [main] getByDate -> 702025003
+2018-12-03 18:15:18,242 INFO r.r.c.v.GraphServiceImpl [main] getGraphList
+2018-12-03 18:15:18,243 INFO r.r.c.v.GraphDaoImpl [main] getByDate -> 93199773
+2018-12-03 18:15:18,243 INFO r.r.c.v.GraphServiceImpl [main] getGraphList
+2018-12-03 18:15:18,243 INFO r.r.c.v.GraphDaoImpl [main] getByDate -> 1147805316
+2018-12-03 18:15:18,243 INFO r.r.c.v.GraphServiceImpl [main] getGraphList
+2018-12-03 18:15:18,244 INFO r.r.c.v.GraphDaoImpl [main] getByDate -> 1326393666
+2018-12-03 18:15:18,244 INFO r.r.c.v.GraphServiceImpl [main] getGraphList
+2018-12-03 18:15:18,244 INFO r.r.c.v.GraphDaoImpl [main] getByDate -> 643290333
+2018-12-03 18:15:18,244 INFO r.r.c.v.GraphServiceImpl [main] getGraphList
+2018-12-03 18:15:18,244 INFO r.r.c.v.GraphDaoImpl [main] getByDate -> 1396721535
+2018-12-03 18:15:18,245 INFO r.r.c.v.GraphServiceImpl [main] getGraphList
+2018-12-03 18:15:18,245 INFO r.r.c.v.GraphDaoImpl [main] getByDate -> 1204481453
+2018-12-03 18:15:18,245 INFO r.r.c.v.GraphServiceImpl [main] getGraphList
+2018-12-03 18:15:18,245 INFO r.r.c.v.GraphDaoImpl [main] getByDate -> 1899600175
+2018-12-03 18:15:18,246 INFO r.r.c.v.GraphServiceImpl [main] getGraphList
+2018-12-03 18:15:18,246 INFO r.r.c.v.GraphDaoImpl [main] getByDate -> 1766869737
+2018-12-03 18:15:18,246 INFO r.r.c.v.GraphServiceImpl [main] getGraphList
+2018-12-03 18:15:18,246 INFO r.r.c.v.GraphDaoImpl [main] getByDate -> 947553027
+2018-12-03 18:50:54,181 INFO o.s.t.c.s.DefaultTestContextBootstrapper [main] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2018-12-03 18:50:54,192 INFO o.s.t.c.s.DefaultTestContextBootstrapper [main] Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@6e171cd7, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@402bba4f, org.springframework.test.context.support.DirtiesContextTestExecutionListener@795cd85e]
+2018-12-03 18:50:54,650 INFO r.r.c.v.GraphServiceImpl [main] constructor
+2018-12-03 18:50:54,670 INFO r.r.c.v.GraphServiceImpl [main] getGraphList
+2018-12-03 18:50:54,671 INFO r.r.c.v.GraphDaoImpl [main] getByDate -> 1204481453
+2018-12-03 18:50:54,671 INFO r.r.c.v.GraphServiceImpl [main] getGraphList
+2018-12-03 18:50:54,672 INFO r.r.c.v.GraphDaoImpl [main] getByDate -> 1899600175
+2018-12-03 18:50:54,672 INFO r.r.c.v.GraphServiceImpl [main] getGraphList
+2018-12-03 18:50:54,672 INFO r.r.c.v.GraphDaoImpl [main] getByDate -> 1766869737
+2018-12-03 18:50:54,672 INFO r.r.c.v.GraphServiceImpl [main] getGraphList
+2018-12-03 18:50:54,673 INFO r.r.c.v.GraphDaoImpl [main] getByDate -> 947553027
+2018-12-03 18:50:54,673 INFO r.r.c.v.GraphServiceImpl [main] getGraphList
+2018-12-03 18:50:54,673 INFO r.r.c.v.GraphDaoImpl [main] getByDate -> 684566052
+2018-12-03 18:50:54,673 INFO r.r.c.v.GraphServiceImpl [main] getGraphList
+2018-12-03 18:50:54,674 INFO r.r.c.v.GraphDaoImpl [main] getByDate -> 352367347
+2018-12-03 18:50:54,675 INFO r.r.c.v.GraphServiceImpl [main] getGraphList
+2018-12-03 18:50:54,676 INFO r.r.c.v.GraphDaoImpl [main] getByDate -> 2129442232
+2018-12-03 18:50:54,676 INFO r.r.c.v.GraphServiceImpl [main] getGraphList
+2018-12-03 18:50:54,677 INFO r.r.c.v.GraphDaoImpl [main] getByDate -> 308433917
+2018-12-03 18:50:54,677 INFO r.r.c.v.GraphServiceImpl [main] getGraphList
+2018-12-03 18:50:54,677 INFO r.r.c.v.GraphDaoImpl [main] getByDate -> 1473981203
+2018-12-03 18:50:54,678 INFO r.r.c.v.GraphServiceImpl [main] getGraphList
+2018-12-03 18:50:54,678 INFO r.r.c.v.GraphDaoImpl [main] getByDate -> 1197251633
