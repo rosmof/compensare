@@ -56,11 +56,11 @@ public class TestConfig implements WebMvcConfigurer {
             }
         });
 
-        /*
+        /**
          * This is not required as i have included jackson in the classpath.Still i keep it here as
          * another reference on how to implement a message converter.
          *
-         * */
+         **/
         converters.add(new HttpMessageConverter<List<Splitter>>() {
             @Override
             public boolean canRead(Class<?> clazz, MediaType mediaType) {

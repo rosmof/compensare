@@ -27,6 +27,13 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 
     @Override
     protected void configure(HttpSecurity http) throws Exception {
+
+        /* path "/home/all" should be public*/
+        http.
+                authorizeRequests()
+                .antMatchers("/home/all").permitAll();
+
+        /* all other paths are accessed based on authentication*/
         http.
                 authorizeRequests()
                 .anyRequest().authenticated()
