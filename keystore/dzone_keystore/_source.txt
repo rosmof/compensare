@@ -1,0 +1,2 @@
+## Excelent articol; include si generarea certificatelor pentru client si server
+https://dzone.com/articles/securing-rest-apis-with-client-certificates

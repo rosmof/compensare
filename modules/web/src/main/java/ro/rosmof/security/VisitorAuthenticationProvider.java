@@ -1,6 +1,7 @@
 package ro.rosmof.security;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.security.authentication.AuthenticationProvider;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
 import org.springframework.security.core.Authentication;
@@ -12,6 +13,7 @@ import org.springframework.stereotype.Component;
 public class VisitorAuthenticationProvider implements AuthenticationProvider {
 
     @Autowired
+    @Qualifier("visitorDetailsService")
     private UserDetailsService visitorDetails;
 
     @Override

@@ -3,6 +3,7 @@ package ro.rosmof.config;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.PropertySource;
 import org.springframework.web.multipart.MultipartResolver;
 import org.springframework.web.multipart.support.StandardServletMultipartResolver;
 import org.springframework.web.servlet.ViewResolver;
@@ -16,6 +17,7 @@ import java.io.IOException;
 @Configuration
 @EnableWebMvc
 @ComponentScan("ro.rosmof.controller")
+@PropertySource("classpath:application.properties")
 public class ServletConfig implements WebMvcConfigurer {
 
     @Bean
@@ -40,6 +42,4 @@ public class ServletConfig implements WebMvcConfigurer {
     public MultipartResolver multipartResolver() throws IOException {
         return new StandardServletMultipartResolver();
     }
-
-
 }

@@ -1,0 +1,6 @@
+Excellent resources for securing a REST API with certificate
+https://dzone.com/articles/securing-rest-apis-with-client-certificates
+https://www.baeldung.com/spring-channel-security-https
+
+##this question has some good references
+https://stackoverflow.com/questions/27362588/mutual-authentication-with-tomcat-7

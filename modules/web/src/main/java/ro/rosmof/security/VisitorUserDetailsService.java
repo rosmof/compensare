@@ -1,6 +1,7 @@
 package ro.rosmof.security;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.User;
@@ -16,6 +17,7 @@ import java.util.List;
 import java.util.Optional;
 
 @Service
+@Qualifier("visitorDetailsService")
 public class VisitorUserDetailsService implements UserDetailsService {
 
     private static List<User> userList = new ArrayList<>();
