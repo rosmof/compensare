@@ -57,12 +57,15 @@ public class LambdaTests {
 
         //filter the list with lambdas
         List<String> filteredList = filter(payload, (String s) -> !s.isEmpty());
+        List<String> filteredList2 = filter(payload, this::isValidEntry);
 
         //iterate each item with lambda
         forEach(filteredList, (String s) -> System.out.println(s.startsWith("a") ? "XXXXXXXX" : s));
 
         //create a map with the length of each string in the list
-        Map<String, Integer> lenmap2 = map(filteredList, (String s) -> s.length() + 1);
+        Map<String, Integer> lenmap2 = map(filteredList, s -> s.length() + 1); //lambda type inference, instead of (String s)
+
+        Runnable r1 = Thread::dumpStack;
 
         logger.info("filtered list size = " + filteredList.size());
     }
@@ -94,5 +97,17 @@ public class LambdaTests {
         Map<T, R> result = new HashMap<>();
         initial.forEach((T t) -> result.put(t, function.apply(t)));
         return result;
+    }
+
+
+    /**
+     * This can be used as method reference, that is to be passed as an implementation
+     * of functional interface.
+     *
+     * When using method references the signature of the method must be the same as the signature
+     * of the functional interface.
+     */
+    private boolean isValidEntry(String string) {
+        return Character.isUpperCase(string.charAt(0));
     }
 }

@@ -22,7 +22,7 @@ public class TestConfig implements WebMvcConfigurer {
 
     /**
      * This is an excelent example on how to implement your own message converters.
-     * This can be used, for example, to send a base64 response to the client, or an encrypted
+     * This can be used, for example, to send a base64 response to the client.js, or an encrypted
      * response.
      * <p>
      * Created at 27 december 2018, by Sorin

@@ -53,29 +53,35 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 //                .requiresChannel()
 //                .antMatchers("/rest/*").requiresSecure();
 
-        http
-                .authorizeRequests()
-                .anyRequest().authenticated()
-                .and()
-                .x509()
-                .subjectPrincipalRegex("CN=(.*?)(?:,|$)")
-                .userDetailsService(x509DetailsService());
+        /**
+         * This allows x509 authentication; combined with a configuration in tomcat
+         * that requests the certificate from the client.js it provides a valid model.
+         *
+         * The only thing is that it only works with chrome...
+         * */
+//        http
+//                .authorizeRequests()
+//                .anyRequest().authenticated()
+//                .and()
+//                .x509()
+//                .subjectPrincipalRegex("CN=(.*?)(?:,|$)")
+//                .userDetailsService(x509DetailsService());
 
     }
 
-    @Bean
-    @Qualifier("x509")
-    public UserDetailsService x509DetailsService() {
-        return username -> {
-            if(username.toLowerCase().contains("rosmof")){
-                System.out.println("xxxxxxxxxxx");
-                return new User(username,"", AuthorityUtils.createAuthorityList("ADMIN"));
-            } else {
-                System.out.println("yyyyyyyyyyyy");
-                throw new UsernameNotFoundException("not found");
-            }
-        };
-    }
+//    @Bean
+//    @Qualifier("x509")
+//    public UserDetailsService x509DetailsService() {
+//        return username -> {
+//            if(username.toLowerCase().contains("rosmof")){
+//                System.out.println("xxxxxxxxxxx");
+//                return new User(username,"", AuthorityUtils.createAuthorityList("ADMIN"));
+//            } else {
+//                System.out.println("yyyyyyyyyyyy");
+//                throw new UsernameNotFoundException("not found");
+//            }
+//        };
+//    }
 
 //    @Override
 //    protected void configure(AuthenticationManagerBuilder auth) throws Exception {

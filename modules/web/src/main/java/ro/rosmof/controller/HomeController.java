@@ -6,8 +6,6 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
-import org.springframework.web.client.ResourceAccessException;
-import ro.rosmof.exception.ItemNotFoundException;
 import ro.rosmof.model.Fantasy;
 import ro.rosmof.model.Splitter;
 import ro.rosmof.repository.FantasyRepository;
@@ -50,21 +48,12 @@ public class HomeController {
     public String fantasyDetail(@PathVariable("item") int id, Model model) {
         Fantasy result = fantasyRepository.getGeneratedList().stream().filter(s -> s.getId() == id).findFirst().get();
         model.addAttribute("item", result);
-
-        if ("test".equals("test")) {
-            throw new ResourceAccessException("not found exception");
-        }
-
         return "fantasy_detail_view";
     }
 
     @RequestMapping(value = "/home/all", produces = "application/json", method = RequestMethod.GET)
     @ResponseBody
     public ResponseEntity<List<Splitter>> getAllSplitters() {
-        if (1 == 1) {
-            throw new ItemNotFoundException();
-        } else {
-            return new ResponseEntity<>(splitterRepository.getGeneratedValues(), HttpStatus.NOT_FOUND);
-        }
+        return new ResponseEntity<>(splitterRepository.getGeneratedValues(), HttpStatus.OK);
     }
 }
